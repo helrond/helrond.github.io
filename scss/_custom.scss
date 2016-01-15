@@ -1,5 +1,8 @@
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 200;
+	font-weight: 300;
+	@media #{small-up} {
+		.home-nav ul {font-size:1.5rem}
+	}
 	@media #{$medium-up} {
 	}
 	@media #{$large-up} {
@@ -19,4 +22,62 @@ h1, h2, h3, h4, h5, h6 {
 }
 .font-heavy {
 	font-weight: 800;
+}
+
+header h1 {
+	font-size: 1.5rem;
+	margin-top: 1rem;
+}
+
+//Footer
+.site-footer {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	height:4rem;
+	background: #16193B;
+	padding-top:.5rem;
+}
+
+.site-footer ul, .site-footer p {
+    font-size: .85rem;
+		color: #fff;
+		margin-bottom:0;
+}
+
+.site-footer a {
+	color: #fff;
+}
+
+.site-footer header {
+	font-family: "Raleway", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+	color: #fff;
+}
+
+.wrap {
+	min-height:100%;
+	position: relative;
+}
+
+.content.row {
+	padding-bottom: 4rem;
+	padding-top: 2rem;
+}
+
+h1.home {
+	margin-top: 15%;
+	font-size: rem-calc($h1-font-size * 40);
+}
+
+.home {
+	font-weight: 400;
+}
+
+#home-page {
+	background: radial-gradient(rgba(200, 200, 200, 0.5), rgba(200, 200, 200, 0)), url("/img/background.jpg") no-repeat top center fixed;
+}
+
+.archive-link a {
+    padding-bottom: 1.5rem;
 }

@@ -8,25 +8,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="keywords" content="{{ page.keywords }}, {{ site.keywords }}" />
 
-    <!-- CSS  Get: http://www.google.com/fonts/
-    http://stackoverflow.com/questions/7985081/how-to-deploy-a-jekyll-site-locally-with-css-js-and-background-images-included
-    ================================================== -->
     <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700,800|Raleway:400,200,700" rel="stylesheet" type="text/css">
-    <!-- Fount Awesome -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="/css/style.css" />
 
-    <!-- Ah, the favicon.
-    ================================================== -->
-    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="/favicon.png">
 
-    <!-- Open Graph: https://developers.facebook.com/docs/opengraph/howtos/maximizing-distribution-media-content/
-    Twitter: https://dev.twitter.com/docs/cards/types/summary-card
-    ============================== -->
     <meta property="og:title" content="{{ page.title }}"/>
-    <meta property="og:site_name" content=" - {{ site.name }}"/>
-    <meta property="og:url" content=" - {{ site.url }}"/>
+    <meta property="og:site_name" content="{{ site.name }}"/>
+    <meta property="og:url" content="{{ site.url }}"/>
     <meta property="og:description" content="{{ page.description }}"/>
     <meta property="og:image" content="{{ page.imageurl }}"/>
     <meta name="twitter:card" content="summary">
@@ -34,97 +25,75 @@
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ page.description }}">
     <meta name="twitter:image" content="{{ page.imageurl }}">
-  
-    <!-- modernizr
-    ================================================== -->
-    <script src="bower_components/modernizr/modernizr.js"></script>
+
+    <script src="/bower_components/modernizr/modernizr.js"></script>
   </head>
   <body>
 
-<div class="off-canvas-wrap" data-offcanvas>
-  <div class="inner-wrap"> 
-    <!-- Add header and nav here  -->
-    
+    <div class="wrap">
+
+      <div class="contain-to-grid">
+        <nav class="top-bar" data-topbar role="navigation">
+          <ul class="title-area">
+            <li class="name">
+              <h1><a href="{{ site.url }}">hillelarnold.com</a></h1>
+            </li>
+            <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+          </ul>
+          <section class="top-bar-section">
+            <ul class="right">
+              {% include nav.html %}
+            </ul>
+          </section>
+        </nav>
+      </div>
+
         <!--[if lt IE 8]>
             <div data-alert class="alert-box alert radius" class="browsehappy">Please <a href="http://browsehappy.com/">upgrade your browser</a>. <a href="#" class="close">&times;</a></div>
         <![endif]-->
 
-    <header id="header" class="row">
-
-        <div class="small-12 columns">
-            <section class="right show-for-medium-up mam">
-                <ul class="inline-list">
-                    {% include nav.html %}
-                </ul>
-            </section>
-
-            <section class="right show-for-small">
-                <ul class="inline-list mam">
-                <li>
-                    <a class="right-off-canvas-toggle" href="#"><i class="fa fa-bars fa-lg">
-                    </i></a>
-                </li>
-                </ul>
-            </section>
-
-            <h1><a href="{{ site.url }}">{{ site.brand }}</a></h1>
-
-        </div>
-    </header>
-
-        <!-- Off Canvas Menu -->
-        <aside class="right-off-canvas-menu">
-            <!-- navigation list goes here -->
-            <ul class="off-canvas-list">
-               {% include nav.html %}
-            </ul>
-        </aside>
-
-
-        <div class="row">
+        <div class="content row">
           <section role="main">
             <div class="small-12 columns">
-        
-              {{ content }} 
-           
+
+              {{ content }}
+
             </div>
           </section>
         </div>
-        
 
-        <footer class="site-footer row" role="contentinfo">
-        <hr/>
-          <div class="large-12 columns">
-            <ul class="inline-list">
-                {% include nav.html %}
-            </ul>
-            <p class="quiet copyright right"> <a href="https://twitter.com/{{ site.twitter }}">
-                <i class="fa fa-twitter">
-                </i>
-             @{{ site.twitter }}</a>, <a href="https://github.com/{{ site.github }}/">
-                <i class="fa fa-github">
-                </i>
-             @{{ site.github }}</a> {{ site.year }}.</p>
+        <footer class="site-footer" role="contentinfo">
+          <div class="row">
+            <div class="large-12 columns">
+              <div class="left small-6 columns">
+                <header>Contact</header>
+                <ul class="inline-list">
+                  <li><a href="mailto:{{ site.email }}"> Email</a></li>
+                  <li><a href="https://twitter.com/{{ site.twitter }}" rel="me"> Twitter</a></li>
+                  <li><a href="https://github.com/{{ site.github }}/" rel="me"> Github</a></li>
+                  <li><a href="https://linkedin.com/pub/hillel-arnold/b/86b/807"> LinkedIn</a></li>
+                </ul>
+              </div>
+              <div class="small-6 columns right">
+                <p class="text-right">
+                  Cover photograph courtesy Azra Dawood
+                  <br />
+                  <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Site design &amp; content</span> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC&#8209;BY</a>
+                </p>
+              </div>
+            </div>
           </div>
         </footer>
 
-
-      <!-- close the off-canvas menu -->
-      <a class="exit-off-canvas"></a>
-
-      </div>
+      <!-- </div> -->
     </div>
 
-
-    <!-- Loading JavaScripts
-    ================================================== -->
-    <!-- Zepto (http://zeptojs.com/) is great, but I am sticking with jQuery. Sorry! -->
-
+    <!-- Scripts -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="bower_components/jquery/jquery.js"><\/script>')</script>
-    <script src="js/plugins.js"></script>
-    <script src="bower_components/foundation/js/foundation.min.js"></script>
-    <script src="js/script.js"></script>
+    <script>window.jQuery || document.write('<script src="/bower_components/jquery/jquery.js"><\/script>')</script>
+    <script src="/js/plugins.js"></script>
+    <script src="/bower_components/foundation/js/foundation.min.js"></script>
+    <script src="/js/script.js"></script>
 
     <!-- Google Analytics -->
     <script>
@@ -135,7 +104,6 @@
       ga('create', '{{ site.analytics }}', 'auto');
       ga('send', 'pageview');
     </script>
-
 
   </body>
 </html>

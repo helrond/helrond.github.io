@@ -1,0 +1,41 @@
+---
+comments: true
+date: 2011-09-08 19:40:57
+layout: post
+title: SAA 2011 Recap
+categories:
+- Archives
+---
+
+[The Society of American Archivists' annual meeting](http://www2.archivists.org/conference/2011/chicago) (held this year in Chicago) ended almost two weeks ago today and, while it's hard to believe it's already been that long, I wanted to get down a few thoughts about the conference before it all fades away.<!-- more -->
+
+First of all, I had a fantastic time. There was a lot of [unfortunate drama](http://hillelarnold.com/blog/?p=622) surrounding the labor dispute before the conference that led to my being pretty ambivalent about going. In fact, the day before I left I was feeling tired, bummed out, and not at all enthusiastic about trekking to Chicago. That all disappeared as soon as I met up with some of my good archival friends and colleagues; a good reminder that, when all is said and done, the best part about these conferences is really meeting new people and bonding with those you already know, usually over a glass of something alcoholic.
+
+As always, I ended up feeling like I learned a lot and missed a lot. There were three sessions that stood out for me. The first was _[Session 210: Genuine Encounter, Authentic Relationships: Archival Covenant and Professional Self-Understanding](http://saa.archivists.org/Scripts/4Disapi.dll/4DCGI/events/eventdetail.html?Action=Events_Detail&Time=28609560&InvID_W=1951)_, in particular Brien Brothman's presentation, which was unfortunately truncated, but nonetheless heady, provocative, stimulating and mind-blowing. I seriously considered kidnapping Brothman and making him do the full presentation, but I couldn't find any accomplices. I also really enjoyed _[Session 304: Archives in the Web of Data: Toward a Virtuous Flow of Data in the UK and Beyond](http://saa.archivists.org/Scripts/4Disapi.dll/4DCGI/events/eventdetail.html?Action=Events_Detail&Time=28700848&InvID_W=1816)_, where a group of folks from the UK talked about using linked data to open up archival description in new and exciting ways. After sitting through what seem like countless presentations on the potential of linked data, it was great to see a real-world example of someone in the world of archives actually using linked data. Finally, _[Session 601: Rappin' with a Fiddle: a 360 Perspective of Music Archives](http://saa.archivists.org/Scripts/4Disapi.dll/4DCGI/events/eventdetail.html?Action=Events_Detail&Time=28742906&InvID_W=1844)_ was really fantastic. I particularly enjoyed Courtney Chartier's presentation on the Tupac Shakur Collection, and all the connections that could be made to the Woody Guthrie Archives.
+
+There are a couple things I learned this year that are going to shape how I approach future SAA conferences. Mark Matienzo put together a [good list](http://thesecretmirror.com/blog/2011/08/21/how-to-hack-saa/) (which, as he admits, he stole pretty much wholesale from the awesome [Declan "Big D" Fleming](http://declan.net/)) over on his blog, so mash up the two and I think you'll have a pretty good guide to navigating the annual meeting.
+
+
+
+
+
+  * **You get what you give**. The more involved you are, the more people will know you and/or want to know you. Participate in smaller groups; run for office in a [Roundtable](http://saa.archivists.org/Scripts/4Disapi.dll/4DCGI/committees/Roundtables.html?Action=List_Committees&CommWGStatus=Roundtables) or volunteer to serve on a [Subcommittee](http://saa.archivists.org/Scripts/4Disapi.dll/4DCGI/committees/ListingSubcommittees.html?Action=List_Committees&CommWGStatus=Subcommittees&Time=29116223) or [Task Force](http://saa.archivists.org/Scripts/4Disapi.dll/4DCGI/committees/ListingTFs.html?Action=List_Committees&CommWGStatus=Task%20Forces&Time=29134326). Help organize informal or unofficial gatherings like the [Tweetup](http://twtvite.com/saa11tweetup) or Beer Roundtable.
+
+
+
+  * **Think carefully about what technology you bring with you**. This year, there was no wireless internet access at the conference, which made 3G capable devices (like smartphones or tablets) the only option for internet access during session. Decide whether or not you need a device with a physical keyboard. And you'd probably do well to bring an extra battery for whatever device(s) you decide to take with you, since outlets in session rooms are few and far between.
+
+
+
+  * **Don't be afraid to session-hop**. I used to avoid this because I thought it was rude (and maybe it is), but some of the best sessions I went to were those that I stumbled into. [Keep an eye on Twitter](http://twapperkeeper.com/hashtag/saa11) to see which sessions are generating a buzz.
+
+
+
+  * **Consider staying somewhere other than the conference hotel**. A lot of people stayed away from the conference hotel this year because of the labor dispute. However, I'm starting to thing it's not necessarily a bad idea to stay in a nearby hotel if the price is roughly equal. Generally speaking, conference hotels are pretty massive, not particularly friendly, and difficult to navigate. Having a little separation from the conference can be a good thing in terms of maintaining your sanity, and you'll probably end up staying in a better hotel.
+
+
+
+  * **Stick around post-conference**. Because of Hurricane Irene, a bunch of us East Coasters were forced to stick around in Chicago post-conference. While this was not in my original plan, I had some of the best conversations of the conference during the few extra days I was "stuck," and it was kind of nice to have a few extra days to decompress and ease the post-conference crash.
+
+
+

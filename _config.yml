@@ -1,14 +1,15 @@
-name : Foundation5/github pages/Jykill starter
-brand : My Site
-description : This is the description of my site
-keyword : 
-url : http://daigofuji.github.io/jekyll-foundation-5-starter/
-email : daigo@daigofujiwara.com
-twitter : DaigoFuji
-github : DaigoFuji
-author : Daigo Fujiwara
-analytics : UA-8418273-8
-year : 2015
+name : hillelarnold.com
+brand : hillelarnold.com
+description : True as the average.
+keyword : music, archives
+url : http://hillelarnold.com/
+email : hillel@hillelarnold.com
+twitter : helrond
+github : helrond
+author : Hillel Arnold
+analytics : UA-35698968-1
+year : 2016
 markdown : kramdown
+permalink: blog/:year/:month/:title/
 exclude :
   - node_modules

@@ -1,0 +1,21 @@
+---
+comments: true
+date: 2008-10-26 08:16:02
+layout: post
+title: Today's Debs
+categories:
+- Today's Debs
+tags:
+- debs
+---
+
+[![]({{ rooturl }}/images/blog/2008/06/debs.gif)]({{ rooturl }}/images/blog/2008/06/debs.gif)At a public meeting in New York City some months ago the present Presidential candidate of the Republican party was asked this question: ["]What is a man to do who is out of work[,] in a financial panic and is starving?"<!-- more -->
+
+
+
+This is an intensely human as well as a very practical question. It epitomizes the problem of the unemployed and places it in bold relief. It is not too much to say that the future welfare and progress of our country -- aye, the fate of civilization itself -- depends upon a correct solution of this problem. In view of the supreme importance of the question it might naturally be expected that the Republican party would offer some practical and well-defined method of dealing with it, and one might suppose that the party's standard-bearer would be in a position clearly to expound that method in making reply to his interrogator. But how pitifully inadequate was the answer! It is at least creditable to Mr. Taft's honesty that he frankly replied, "God knows!"
+
+When Mr. Kern, the Vice Presidential candidate of the Democratic party, was asked recently what his party proposed to do for the relief of the unemployed, he is reported to have answered, "Nothing directly, nothing socialistic. We hope that carrying out the general ideas in our platform will so restore confidence that industry will start up again. But that's about all. In fact, that's enough."
+
+
+-from "The Socialist Party's Appeal"

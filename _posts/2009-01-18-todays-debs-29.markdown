@@ -1,0 +1,13 @@
+---
+comments: true
+date: 2009-01-18 22:19:27
+layout: post
+title: Today's Debs
+categories:
+- Today's Debs
+---
+
+The secret of efficient expression in oratory "”if secret it can properly be called "” is in having somethingefficient to express and being so filled with itthat it expresses itself. The choice of wordsis not important since efficient expression,the result of efficient thinking, chooses itsown words, moulds and fashions its own sentences,and creates a diction suited to its ownpurposes.
+
+
+from "[The Secret of Efficient Expression](http://trotsky.org/history/usa/parties/spusa/1911/0708-debs-secretefficient.pdf)"

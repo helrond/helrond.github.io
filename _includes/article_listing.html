@@ -1,0 +1,12 @@
+<h2>
+  <a href="{{ root_url }}{{ post.url }}">
+    {% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}
+  </a>
+  <small>
+    <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>{{ post.date | date: "<span class='month'>%b</span> <span class='day'>%d</span> <span class='year'>%Y</span>"}}</time>
+  </small>
+</h2>
+<p>
+  {{ content | strip_html  | truncatewords:75 }}
+  <a href="{{ root_url }}{{ post.url }}"> read more &rarr;</a>
+</p>
