@@ -11,4 +11,7 @@ Seems appropriate on today, the most patriotic of all days, to tell you that I'm
 
 Y'all do the same.
 
-[audio:nationalanthem.mp3]
+<audio controls="controls">
+  <source type="audio/mp3" src="{{rooturl}}/img/blog/audio/nationalanthem.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>

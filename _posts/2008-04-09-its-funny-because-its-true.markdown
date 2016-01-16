@@ -7,6 +7,6 @@ tags:
 - politics
 ---
 
-[![htoon10705.gif]({{ rooturl }}/images/blog/2008/04/htoon10705.gif)]({{ rooturl }}/images/blog/2008/04/htoon10705.gif)
+[![htoon10705.gif]({{ rooturl }}/img/blog/2008/04/htoon10705.gif)]({{ rooturl }}/img/blog/2008/04/htoon10705.gif)
 
 Again, thank you [Mr. Hungryhoast](http://hungryghoast.tumblr.com/).

@@ -10,7 +10,7 @@ tags:
 - politics
 ---
 
-[![]({{ rooturl }}/images/blog/2008/06/debs.gif)]({{ rooturl }}/images/blog/2008/06/debs.gif)
+[![]({{ rooturl }}/img/blog/2008/06/debs.gif)]({{ rooturl }}/img/blog/2008/06/debs.gif)
 
 Daily the columns of the capitalist press are filled with the outcry that the wolves of greed are threatening to devour everything in sight and bring ruination and destruction upon the country.
 How sad!<!-- more -->

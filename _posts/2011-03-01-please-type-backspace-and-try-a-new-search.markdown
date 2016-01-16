@@ -7,4 +7,4 @@ title: Please type backspace and try a new search!
 
 From [NameVoyager](http://www.babynamewizard.com/voyager#)
 
-[![]({{ rooturl }}/images/blog/2011/03/names.jpg)]({{ rooturl }}/images/blog/2011/03/names.jpg)
+[![]({{ rooturl }}/img/blog/2011/03/names.jpg)]({{ rooturl }}/img/blog/2011/03/names.jpg)

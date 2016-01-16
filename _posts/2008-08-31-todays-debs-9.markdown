@@ -5,7 +5,7 @@ layout: post
 title: Today's Debs
 ---
 
-[![]({{ rooturl }}/images/blog/2008/06/debs.gif)]({{ rooturl }}/images/blog/2008/06/debs.gif)
+[![]({{ rooturl }}/img/blog/2008/06/debs.gif)]({{ rooturl }}/img/blog/2008/06/debs.gif)
 
 
 

@@ -7,7 +7,7 @@ categories:
 - Today's Debs
 ---
 
-[![]({{ rooturl }}/images/blog/2008/06/debs.gif)]({{ rooturl }}/images/blog/2008/06/debs.gif)The proposition is here made to put an end to war by democratizing war. In all the history of the world THE PEOPLE have never declared a war.<!-- more -->
+[![]({{ rooturl }}/img/blog/2008/06/debs.gif)]({{ rooturl }}/img/blog/2008/06/debs.gif)The proposition is here made to put an end to war by democratizing war. In all the history of the world THE PEOPLE have never declared a war.<!-- more -->
 
 A constitutional amendment providing that no war shall be declared except by a vote of the people and that, as Allan Benson has suggested, if war is declared they who voted for it shall be the first to go to the front would put an end to war forever in this country.
 

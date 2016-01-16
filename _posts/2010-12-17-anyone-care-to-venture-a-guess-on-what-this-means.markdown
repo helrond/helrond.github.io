@@ -7,4 +7,4 @@ categories:
 - History
 ---
 
-[![]({{ rooturl }}/images/blog/2010/12/communism.jpg)]({{ rooturl }}/images/blog/2010/12/communism.jpg)
+[![]({{ rooturl }}/img/blog/2010/12/communism.jpg)]({{ rooturl }}/img/blog/2010/12/communism.jpg)

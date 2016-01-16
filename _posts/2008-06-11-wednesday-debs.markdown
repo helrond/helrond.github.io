@@ -16,7 +16,7 @@ Let us think for a moment!
 
 The working man who turns soldier today becomes the hired assassin of his capitalist master. He goes on the murderers' pay roll at fifty cents a day, under orders to kill anybody, anywhere, at any time.
 
-[![]({{ rooturl }}/images/blog/2008/06/debs.gif)]({{ rooturl }}/images/blog/2008/06/debs.gif)To refuse to brain his own mother in a hunger strike is treason to his pot-bellied master.<!-- more -->
+[![]({{ rooturl }}/img/blog/2008/06/debs.gif)]({{ rooturl }}/img/blog/2008/06/debs.gif)To refuse to brain his own mother in a hunger strike is treason to his pot-bellied master.<!-- more -->
 
 This is the vile and abject thing we call a soldier. Lower than the slimy, dripping depths in which this craven creature crawls, neither man nor beast can ever sing in time or eternity.
 

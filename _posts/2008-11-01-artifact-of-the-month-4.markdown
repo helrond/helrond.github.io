@@ -11,6 +11,6 @@ tags:
 
 Don't know much about this one. Just saw it lying around and took a quick snap:
 
-[![]({{ rooturl }}/images/blog/2008/07/0710081332.jpg)]({{ rooturl }}/images/blog/2008/07/0710081332.jpg)
+[![]({{ rooturl }}/img/blog/2008/07/0710081332.jpg)]({{ rooturl }}/img/blog/2008/07/0710081332.jpg)
 
 Arsenal of Facts. Enough said.

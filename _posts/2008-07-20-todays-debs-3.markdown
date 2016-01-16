@@ -10,4 +10,4 @@ tags:
 - politics
 ---
 
-[![]({{ rooturl }}/images/blog/2008/06/debs.gif)]({{ rooturl }}/images/blog/2008/06/debs.gif)Woe unto the nation corner-stoned in conscription and a standing army for it shall surely perish in its own iniquities.
+[![]({{ rooturl }}/img/blog/2008/06/debs.gif)]({{ rooturl }}/img/blog/2008/06/debs.gif)Woe unto the nation corner-stoned in conscription and a standing army for it shall surely perish in its own iniquities.

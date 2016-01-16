@@ -9,7 +9,7 @@ tags:
 - debs
 ---
 
-[![]({{ rooturl }}/images/blog/2008/06/debs.gif)]({{ rooturl }}/images/blog/2008/06/debs.gif)At a public meeting in New York City some months ago the present Presidential candidate of the Republican party was asked this question: ["]What is a man to do who is out of work[,] in a financial panic and is starving?"<!-- more -->
+[![]({{ rooturl }}/img/blog/2008/06/debs.gif)]({{ rooturl }}/img/blog/2008/06/debs.gif)At a public meeting in New York City some months ago the present Presidential candidate of the Republican party was asked this question: ["]What is a man to do who is out of work[,] in a financial panic and is starving?"<!-- more -->
 
 
 

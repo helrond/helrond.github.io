@@ -5,4 +5,4 @@ layout: post
 title: The quintessential NYC dilemma
 ---
 
-![0914091723]({{ rooturl }}/images/blog/2010/02/0914091723-1024x768.jpg)
+![0914091723]({{ rooturl }}/img/blog/2010/02/0914091723-1024x768.jpg)

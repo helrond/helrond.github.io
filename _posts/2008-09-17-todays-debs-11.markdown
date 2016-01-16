@@ -5,7 +5,7 @@ layout: post
 title: Today's Debs
 ---
 
-[![]({{ rooturl }}/images/blog/2008/06/debs.gif)]({{ rooturl }}/images/blog/2008/06/debs.gif)The only time in my life I ever saw Theodore Roosevelt was years before he became president of the United States. I was aboard of a train in the far west, where Roosevelt was then said to be following ranch life, and as he and several companions in cowboy costume entered the car at a station stop, he was pointed out to me. I did not like him. The years since have not altered that feeling of aversion except to accentuate it.<!-- more -->
+[![]({{ rooturl }}/img/blog/2008/06/debs.gif)]({{ rooturl }}/img/blog/2008/06/debs.gif)The only time in my life I ever saw Theodore Roosevelt was years before he became president of the United States. I was aboard of a train in the far west, where Roosevelt was then said to be following ranch life, and as he and several companions in cowboy costume entered the car at a station stop, he was pointed out to me. I did not like him. The years since have not altered that feeling of aversion except to accentuate it.<!-- more -->
 
 I have since seen the nation mad with hero worship over this man Roosevelt, but I have not been impressed by it. Very "great" men sometimes shrivel into very small ones and finally vanish in oblivion in the short space of a single generation.
 

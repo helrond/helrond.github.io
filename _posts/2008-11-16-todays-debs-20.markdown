@@ -7,7 +7,7 @@ categories:
 - Today's Debs
 ---
 
-[![]({{ rooturl }}/images/blog/2008/06/debs.gif)]({{ rooturl }}/images/blog/2008/06/debs.gif)It matters little whether Jesus was born at Nazareth or Bethlehem. The accounts conflict, but the point is of no consequence.
+[![]({{ rooturl }}/img/blog/2008/06/debs.gif)]({{ rooturl }}/img/blog/2008/06/debs.gif)It matters little whether Jesus was born at Nazareth or Bethlehem. The accounts conflict, but the point is of no consequence.
 
 It is of consequence, however, that He was born in a stable and cradled in a manger. This fact of itself, about which there is no question, certifies conclusively the proletarian character of Jesus Christ. Had His parents been other than poor working people "money-changers, usurers, merchants, lawyers, scribes, priests, or other parasites" He would not have been delivered from His mother's womb on a bed of straw in a stable among asses and other animals.<!-- more -->
 

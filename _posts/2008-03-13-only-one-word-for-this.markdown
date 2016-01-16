@@ -8,6 +8,6 @@ tags:
 - art
 ---
 
-[![molly maguires]({{ rooturl }}/images/blog/2008/03/0313081149.jpg)]({{ rooturl }}/images/blog/2008/03/0313081149.jpg)
+[![molly maguires]({{ rooturl }}/img/blog/2008/03/0313081149.jpg)]({{ rooturl }}/img/blog/2008/03/0313081149.jpg)
 
 Badass.

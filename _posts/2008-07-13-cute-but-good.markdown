@@ -9,7 +9,7 @@ I know it's Sunday evening, and I should be acting responsibly and going to bed 
 
 I just saw this, and I wanted you to see it too.
 
-[![]({{ rooturl }}/images/blog/2008/07/20080713_handan_0116.jpg)]({{ rooturl }}/images/blog/2008/07/20080713_handan_0116.jpg)<!-- more -->
+[![]({{ rooturl }}/img/blog/2008/07/20080713_handan_0116.jpg)]({{ rooturl }}/img/blog/2008/07/20080713_handan_0116.jpg)<!-- more -->
 
 I don't know why I think it's so great, but it is, right?
 

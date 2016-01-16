@@ -7,7 +7,7 @@ categories:
 - Today's Debs
 ---
 
-[![]({{ rooturl }}/images/blog/2008/06/debs.gif)]({{ rooturl }}/images/blog/2008/06/debs.gif)There has never been "Peace on earth and goodwill toward men;" and we shall have to go forward and not backward to realize that ideal. Civilization is still in a primitive, rudimentary state. It has taken countless ages to bring us from the brute, the caveman, and the savage to where we are today. The development has been painfully slow, but steady, and will continue to the farthest stretches of time.<!-- more -->
+[![]({{ rooturl }}/img/blog/2008/06/debs.gif)]({{ rooturl }}/img/blog/2008/06/debs.gif)There has never been "Peace on earth and goodwill toward men;" and we shall have to go forward and not backward to realize that ideal. Civilization is still in a primitive, rudimentary state. It has taken countless ages to bring us from the brute, the caveman, and the savage to where we are today. The development has been painfully slow, but steady, and will continue to the farthest stretches of time.<!-- more -->
 
 "Thou shalt not kill" is now the law. But it applies only to individuals "” not yet to nations. To slay your neighbor is murder "” unless you are in uniform. But when the nation slays its neighbors and the killings mount into the thousands, it is not murder but patriotism to be proud of, glorify, and rejoice over.
 

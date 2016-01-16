@@ -9,7 +9,7 @@ tags:
 
 ...that punk is dead, consider this it.
 
-[![]({{ rooturl }}/images/blog/2008/04/0404081923.jpg)]({{ rooturl }}/images/blog/2008/04/0404081923.jpg)
+[![]({{ rooturl }}/img/blog/2008/04/0404081923.jpg)]({{ rooturl }}/img/blog/2008/04/0404081923.jpg)
 
 I know I am [way behind the 8-ball](http://www.nytimes.com/2008/04/19/arts/music/19varv.html?ex=1366344000&en=d3ce38d71011ac93&ei=5124&partner=permalink&exprod=permalink) on this one, but I totally intended to write about this a few weeks ago when I walked by the former site of CBGBs and saw this freaking monstrosity in its place.<!-- more -->
 

@@ -9,7 +9,7 @@ tags:
 
 It struck me the other day that us archivists have really wasteful practices. Take, for example, this method of organizing cassette tapes:
 
-[![]({{ rooturl }}/images/blog/2008/07/0721081702.jpg)]({{ rooturl }}/images/blog/2008/07/0721081702.jpg)
+[![]({{ rooturl }}/img/blog/2008/07/0721081702.jpg)]({{ rooturl }}/img/blog/2008/07/0721081702.jpg)
 
 Yes, those are post-its. Nothing against my colleague who was doing this. As he said, "If you can think of a better way of doing it, tell me." Well, I couldn't.<!-- more -->
 

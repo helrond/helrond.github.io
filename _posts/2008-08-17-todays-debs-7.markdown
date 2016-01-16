@@ -10,7 +10,7 @@ tags:
 - politics
 ---
 
-![]({{ rooturl }}/images/blog/2008/06/debs.gif)There is not a plutocrat in America who does not profess belief in and love for democracy. In his heart he despises it.
+![]({{ rooturl }}/img/blog/2008/06/debs.gif)There is not a plutocrat in America who does not profess belief in and love for democracy. In his heart he despises it.
 
 Democracy is a dreadfully abused term. Like liberty, it has to weep often for the crimes committed in its name.<!-- more -->
 

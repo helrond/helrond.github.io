@@ -11,9 +11,9 @@ tags:
 
 Leaflet from The Group of English speaking Communists, 1918-1918.
 
-[![]({{ rooturl }}/images/blog/2008/07/0516081259.jpg)]({{ rooturl }}/images/blog/2008/07/0516081259.jpg)During the [Russian Civil War](http://en.wikipedia.org/wiki/Russian_Civil_War) (immediately following World War I), [some Allied troops](http://en.wikipedia.org/wiki/Allied_intervention_in_the_Russian_Civil_War), including American and British soldiers, fought against the Communist forces in Russia. On the American side, perhaps the most famous of these groups was the [Polar Bear Expedition](http://polarbears.si.umich.edu/) (which totally sounds like an Arctic exploration team).
+[![]({{ rooturl }}/img/blog/2008/07/0516081259.jpg)]({{ rooturl }}/img/blog/2008/07/0516081259.jpg)During the [Russian Civil War](http://en.wikipedia.org/wiki/Russian_Civil_War) (immediately following World War I), [some Allied troops](http://en.wikipedia.org/wiki/Allied_intervention_in_the_Russian_Civil_War), including American and British soldiers, fought against the Communist forces in Russia. On the American side, perhaps the most famous of these groups was the [Polar Bear Expedition](http://polarbears.si.umich.edu/) (which totally sounds like an Arctic exploration team).
 
-[![]({{ rooturl }}/images/blog/2008/07/0516081258.jpg)]({{ rooturl }}/images/blog/2008/07/0516081258.jpg)Besides sending the full force of the Red Army against the invaders and their allies, the White Army, the newly-formed Communist government did what Communist do best: issue propaganda. This leaflet, which has been custom-bound in a small folio, was one of many which sought to convince the English-speaking forces to defect.
+[![]({{ rooturl }}/img/blog/2008/07/0516081258.jpg)]({{ rooturl }}/img/blog/2008/07/0516081258.jpg)Besides sending the full force of the Red Army against the invaders and their allies, the White Army, the newly-formed Communist government did what Communist do best: issue propaganda. This leaflet, which has been custom-bound in a small folio, was one of many which sought to convince the English-speaking forces to defect.
 
 A full transcription follows, after the jump.<!-- more -->
 

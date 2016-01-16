@@ -5,6 +5,6 @@ layout: post
 title: Happy St. Patrick's Day
 ---
 
-[![big_union_jack.jpg]({{ rooturl }}/images/blog/2008/03/big_union_jack.jpg)]({{ rooturl }}/images/blog/2008/03/big_union_jack.jpg)
+[![big_union_jack.jpg]({{ rooturl }}/img/blog/2008/03/big_union_jack.jpg)]({{ rooturl }}/img/blog/2008/03/big_union_jack.jpg)
 
 With love from me to you.

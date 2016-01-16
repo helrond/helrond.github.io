@@ -17,5 +17,9 @@ By the way, the entire record, which is a tribute to Arlo Guthrie and Bob Dylan 
 
 I've been torn about whether I should do this, but I've decided that the world will be a better place if more people hear this (plus it's not like anyone reads this blog anyway), so here goes:
 
-Mr. Tambourine Man - The Abrams Brothers - Blue on Brown
-[audio:tambourine.mp3]
+### Mr. Tambourine Man - The Abrams Brothers - Blue on Brown
+
+<audio controls="controls">
+  <source type="audio/mp3" src="{{rooturl}}/img/blog/audio/tamourine.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>

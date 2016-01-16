@@ -10,7 +10,7 @@ tags:
 - politics
 ---
 
-![]({{ rooturl }}/images/blog/2008/06/debs.gif)We are not inclined to see anything discouraging in the labor movement. We must prefer and always try to see in everything in and about it and everything that happens to it an indication of its growing power and a promise of its final victory. Even the very worst that happens we try to construe as an evil necessary to the experience of its membership and to its ultimate success.<!-- more -->
+![]({{ rooturl }}/img/blog/2008/06/debs.gif)We are not inclined to see anything discouraging in the labor movement. We must prefer and always try to see in everything in and about it and everything that happens to it an indication of its growing power and a promise of its final victory. Even the very worst that happens we try to construe as an evil necessary to the experience of its membership and to its ultimate success.<!-- more -->
 
 But now and then something happens, sometimes an incident of minor importance of itself, that is downright discouraging in spite of our buoyant optimism.
 

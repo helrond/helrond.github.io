@@ -5,7 +5,7 @@ layout: post
 title: Union Square Pillow Fight
 ---
 
-[![2007_02_pillowfight2.jpg]({{ rooturl }}/images/blog/2008/03/2007_02_pillowfight2.jpg)]({{ rooturl }}/images/blog/2008/03/2007_02_pillowfight2.jpg)
+[![2007_02_pillowfight2.jpg]({{ rooturl }}/img/blog/2008/03/2007_02_pillowfight2.jpg)]({{ rooturl }}/img/blog/2008/03/2007_02_pillowfight2.jpg)
 
 [youtube]http://youtube.com/watch?v=hXLnHePid6A[/youtube]
 

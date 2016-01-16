@@ -16,4 +16,4 @@ Based on the evidence supplied in the photo below, Orson Welles has
 (d) been practicing for the lead role in his next movie, the life of Jesus Christ.
 (e) decided that he is bored out of his mind by the conversation and faking an epileptic seizure to get out of it.
 
-[![]({{ rooturl }}/images/blog/2008/04/0424081112.jpg)]({{ rooturl }}/images/blog/2008/04/0424081112.jpg)
+[![]({{ rooturl }}/img/blog/2008/04/0424081112.jpg)]({{ rooturl }}/img/blog/2008/04/0424081112.jpg)

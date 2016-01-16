@@ -10,4 +10,4 @@ tags:
 - politics
 ---
 
-[![]({{ rooturl }}/images/blog/2008/06/debs.gif)]({{ rooturl }}/images/blog/2008/06/debs.gif)The heart of the revolutionary Socialist never beats a retreat.
+[![]({{ rooturl }}/img/blog/2008/06/debs.gif)]({{ rooturl }}/img/blog/2008/06/debs.gif)The heart of the revolutionary Socialist never beats a retreat.

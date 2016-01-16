@@ -5,7 +5,7 @@ layout: post
 title: Today's Debs
 ---
 
-[![]({{ rooturl }}/images/blog/2008/06/debs.gif)]({{ rooturl }}/images/blog/2008/06/debs.gif)
+[![]({{ rooturl }}/img/blog/2008/06/debs.gif)]({{ rooturl }}/img/blog/2008/06/debs.gif)
 
 I am in revolt against capitalism because I love my fellow men, and if I am opposing you it is for what I believe to be your good, and though you spat upon me with contempt I would still oppose you to the extent of my power.
 

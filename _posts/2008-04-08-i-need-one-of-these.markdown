@@ -7,6 +7,6 @@ tags:
 - music
 ---
 
-[![banjo.jpg]({{ rooturl }}/images/blog/2008/04/banjo.jpg)](http://hungryghoast.tumblr.com/post/30995260)
+[![banjo.jpg]({{ rooturl }}/img/blog/2008/04/banjo.jpg)](http://hungryghoast.tumblr.com/post/30995260)
 
 via [hungryhoast](http://hungryghoast.tumblr.com/) (thank you, kind sir)

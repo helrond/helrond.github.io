@@ -12,7 +12,7 @@ OK, this is a great idea: take a [technology hoax](http://en.wikipedia.org/wiki/
 
 Once again, I'm behind the 8-ball on this one, since the project has apparently been open since May 22nd.  Oh well...thanks to the wonders of [Vincenzo Rutigliano's NYPL blog](http://drupal02.nypl.org/blogs/2008/06/02/tunnel-brooklyn-london%E2%80%A6) I am no longer clueless. <!-- more -->
 
-[![]({{ rooturl }}/images/blog/2008/06/08009827_matthewandrews.jpg)]({{ rooturl }}/images/blog/2008/06/08009827_matthewandrews.jpg)
+[![]({{ rooturl }}/img/blog/2008/06/08009827_matthewandrews.jpg)]({{ rooturl }}/img/blog/2008/06/08009827_matthewandrews.jpg)
 
 So, [here's the deal](http://www.nytimes.com/2008/05/21/arts/design/21tele.html?_r=4&oref=slogin&oref=slogin&oref=slogin&oref=slogin) - there are two matching "telescopes" set up on the Fulton Ferry Landing in Brooklyn and in London on the Thames River.  The conceit is that one can "look through" the world  to see what's going on at the end of a very long tunnel.  We all know that's not true, and that there's some cameras, satellites and fiber-optic cables involved, but still, it's kind of charming.
 

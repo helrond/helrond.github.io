@@ -7,7 +7,7 @@ categories:
 - Today's Debs
 ---
 
-[![]({{ rooturl }}/images/blog/2008/06/debs.gif)]({{ rooturl }}/images/blog/2008/06/debs.gif)Typical capitalists are barren of the social spirit. The very nature of the catch-as-catch-can encounter in which they are engaged makes them wary and suspicious, if not downright hateful of each other, and the latent good that is in them dies for the want of incentive to express itself.<!-- more -->
+[![]({{ rooturl }}/img/blog/2008/06/debs.gif)]({{ rooturl }}/img/blog/2008/06/debs.gif)Typical capitalists are barren of the social spirit. The very nature of the catch-as-catch-can encounter in which they are engaged makes them wary and suspicious, if not downright hateful of each other, and the latent good that is in them dies for the want of incentive to express itself.<!-- more -->
 
 The other day I saw two such capitalists shake hands. It was pitiable. Their hearts had no part in the purely perfunctory ceremony. They happened to meet and could not avoid each other. And so they mechanically touched each other's reluctant hands, standing at right angles to each other for a moment "not face to face" and then passing on without either looking the other in the eyes.
 

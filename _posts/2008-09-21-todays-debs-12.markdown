@@ -5,7 +5,7 @@ layout: post
 title: Today's Debs
 ---
 
-[![]({{ rooturl }}/images/blog/2008/06/debs.gif)]({{ rooturl }}/images/blog/2008/06/debs.gif)
+[![]({{ rooturl }}/img/blog/2008/06/debs.gif)]({{ rooturl }}/img/blog/2008/06/debs.gif)
 
 The republican and democratic parties are alike capitalist parties. Some of you may think that Mr. Bryan, if elected, will do great things for the workers. Conditions will remain substantially the same. We will still be under capitalism. It will not matter how you many tinker with the tariff or the currency. The tools are still the property of the capitalists and you are still at their mercy.
 

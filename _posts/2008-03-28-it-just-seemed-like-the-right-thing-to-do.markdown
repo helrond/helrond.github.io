@@ -8,8 +8,8 @@ tags:
 - music
 ---
 
-[![rosedale.jpg]({{ rooturl }}/images/blog/2008/03/rosedale.jpg)]({{ rooturl }}/images/blog/2008/03/rosedale.jpg)
+[![rosedale.jpg]({{ rooturl }}/img/blog/2008/03/rosedale.jpg)]({{ rooturl }}/img/blog/2008/03/rosedale.jpg)
 
-[![lake-charles.jpg]({{ rooturl }}/images/blog/2008/03/lake-charles.jpg)]({{ rooturl }}/images/blog/2008/03/lake-charles.jpg)
+[![lake-charles.jpg]({{ rooturl }}/img/blog/2008/03/lake-charles.jpg)]({{ rooturl }}/img/blog/2008/03/lake-charles.jpg)
 
 If I need to spell this out for you, then just never mind.

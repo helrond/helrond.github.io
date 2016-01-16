@@ -7,4 +7,4 @@ title: There may be fewer people with this name, or none at all
 
 From [HowManyOfMe.com](http://howmanyofme.com/)
 
-[![]({{ rooturl }}/images/blog/2011/03/name.jpg)]({{ rooturl }}/images/blog/2011/03/name.jpg)
+[![]({{ rooturl }}/img/blog/2011/03/name.jpg)]({{ rooturl }}/img/blog/2011/03/name.jpg)

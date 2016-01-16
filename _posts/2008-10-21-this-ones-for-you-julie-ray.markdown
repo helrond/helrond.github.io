@@ -9,4 +9,4 @@ tags:
 
 As if you needed further incentive to move to NYC...
 
-[![]({{ rooturl }}/images/blog/2008/10/img0491.jpg)]({{ rooturl }}/images/blog/2008/10/img0491.jpg)
+[![]({{ rooturl }}/img/blog/2008/10/img0491.jpg)]({{ rooturl }}/img/blog/2008/10/img0491.jpg)

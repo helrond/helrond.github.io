@@ -5,4 +5,4 @@ layout: post
 title: Waste not, want not
 ---
 
-![0105001714]({{ rooturl }}/images/blog/2010/02/0105001714-1024x768.jpg)
+![0105001714]({{ rooturl }}/img/blog/2010/02/0105001714-1024x768.jpg)

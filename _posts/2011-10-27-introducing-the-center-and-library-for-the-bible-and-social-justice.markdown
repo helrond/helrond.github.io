@@ -7,7 +7,7 @@ title: Introducing the Center and Library for the Bible and Social Justice
 
 For the past two-plus years, I've been working with a stellar group of folks on the daunting and somewhat quixotic task of setting up a new library and educational center. Located at [Stony Point Center](http://www.stonypointcenter.org/) about 40 miles north of New York City in the scenic Hudson Valley, the [Center and Library for the Bible and Social Justice](http://clbsj.org/) has a fantastic collection of books and periodicals in the fields of biblical study, the social sciences, and the history of activist and progressive movements.
 
-[![]({{ rooturl }}/images/blog/2011/10/IMAG0378-1024x612.jpg)]({{ rooturl }}/images/blog/2011/10/IMAG0378.jpg)<!-- more -->
+[![]({{ rooturl }}/img/blog/2011/10/IMAG0378-1024x612.jpg)]({{ rooturl }}/img/blog/2011/10/IMAG0378.jpg)<!-- more -->
 
 The [current collection](http://www.librarything.com/catalog/clbsj) comes largely from the personal libraries of three biblical scholars who pioneered the use of social sciences in biblical scholarship. [Norman Gottwald](http://clbsj.org/?page_id=48#gottwald), [John H. Elliott](http://clbsj.org/?page_id=48#elliott) and [Herman Waetjen](http://clbsj.org/?page_id=48#waetjen) generously contributed a curated selection of their books to this venture.This is a collection of texts that would do any any major research library proud, let alone a theological library.
 

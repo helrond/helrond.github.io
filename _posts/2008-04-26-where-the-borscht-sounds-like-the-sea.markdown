@@ -14,14 +14,14 @@ Anyway, the point of this is that I'm in the process of getting all my random ol
 
 
 
-[![]({{ rooturl }}/images/blog/2008/04/0409081212.jpg)]({{ rooturl }}/images/blog/2008/04/0409081212.jpg)
+[![]({{ rooturl }}/img/blog/2008/04/0409081212.jpg)]({{ rooturl }}/img/blog/2008/04/0409081212.jpg)
 
 The sea, or what passes for it in these parts...we still had a productive conversation, though.
 
-[![]({{ rooturl }}/images/blog/2008/04/0409081418.jpg)]({{ rooturl }}/images/blog/2008/04/0409081418.jpg)
+[![]({{ rooturl }}/img/blog/2008/04/0409081418.jpg)]({{ rooturl }}/img/blog/2008/04/0409081418.jpg)
 
 Took the subway back from Sheepshead Bay.  Needless to say, it's the middle of nowhere...
 
-[![]({{ rooturl }}/images/blog/2008/04/0409081222.jpg)]({{ rooturl }}/images/blog/2008/04/0409081222.jpg)
+[![]({{ rooturl }}/img/blog/2008/04/0409081222.jpg)]({{ rooturl }}/img/blog/2008/04/0409081222.jpg)
 
 So I've finally been in one of these, and no, it wasn't actually green (are they ever?) but it still made me feel like a rock star.  Not enough to trash it, though.
