@@ -1,7 +1,6 @@
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 300;
 	@media #{small-up} {
-		.home-nav ul {font-size:1.5rem}
 	}
 	@media #{$medium-up} {
 	}
@@ -35,9 +34,17 @@ header h1 {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	height:4rem;
 	background: #16193B;
 	padding-top:.5rem;
+	@media #{$small-up} {
+		height:6rem;
+	}
+	@media #{$medium-up} {
+		height:5rem;
+	}
+	@media #{$large-up} {
+		height:4rem;
+	}
 }
 
 .site-footer ul, .site-footer p {
@@ -61,8 +68,16 @@ header h1 {
 }
 
 .content.row {
-	padding-bottom: 4rem;
 	padding-top: 2rem;
+	@media #{$small-up} {
+		padding-bottom:6rem;
+	}
+	@media #{$medium-up} {
+		padding-bottom:5rem;
+	}
+	@media #{$large-up} {
+		padding-bottom:4rem;
+	}
 }
 
 h1.home {
