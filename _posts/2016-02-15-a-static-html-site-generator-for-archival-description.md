@@ -82,8 +82,13 @@ If you've made it this far you're probably wondering what any of this proves. So
 If you're interested in building on this, all the [code is available](https://github.com/helrond/staticAid), along with some more detailed instructions on how to get up and running.
 
 ----
+
 [1] Another project that was pretty influential in my thinking was the NCSU Libraries [Collection Guides](http://www.lib.ncsu.edu/findingaids) site, which is a Ruby on Rails app that uses ArchivesSpace-generated JSON. This project pushes things a step further and removes the relational database backend from the equation.
+
 [2] Yes, I know that's not a word.
-[3] There are some exceptions to this, for example [https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/)
+
+[3] There are some exceptions to this, for example [DevelopmentSeed's work with Prose.io](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/).
+
 [4] This is how staticAid is currently served.
+
 [5] Okay fine, I realize this is maybe a debatable statement. Still.
