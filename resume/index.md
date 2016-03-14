@@ -68,6 +68,8 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Papers and Presentations
 
+*   _Foundation Archives: How Changes to the Way We Work is Sparking Innovation in the Way We Record Our History_, (panelist) Philanthropy New York, March 2016
+*   _staticAid: a static site generator for archival description_, (speaker) Code4Lib Conference, March 2016
 *   _From Transfer to Access: Digital Records at the Rockefeller Archive Center_, (speaker) Consortium of Foundation Libraries, Council on Foundations, July 2015
 *   _Making EAD Make Sense_, (speaker) New York Archives Conference, June 2015
 *   _Arrangement and Description for Born-Digital Materials_, (speaker, with Bonnie Gordon) CURATEcamp, April 2015
