@@ -60,9 +60,9 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 *   **Applications**: Microsoft Office, Adobe Creative Suite, Archivists’ Toolkit, ArchivesSpace.
 *   **Web Frameworks/Content Management Systems**: Rails, Drupal, WordPress, AngularJS, Bootstrap.
 *   **Operating Systems**: Linux, Mac OS X, Windows.
-*   **Database Systems**: MySQL, MOngoDB, Access.
+*   **Database Systems**: MySQL, MongoDB, Access.
 *   **Web/Markup Languages**: Schema.org, XML, XSLT, HTML5, CSS3, JavaScript, PHP.
-*   **Arhival/Library Metadata Standards**: DACS, EAD, Dublin Core, MODS, METS, TEI.
+*   **Archival/Library Metadata Standards**: DACS, EAD, Dublin Core, MODS, METS, TEI.
 *   **Classification Standards and Thesauri**: LCSH, LCNAF/NACO, LC Classification, AAT, VRA 4.0 Core.
 *   **System Administration**: Linux, Apache, Tomcat, MySQL.
 
