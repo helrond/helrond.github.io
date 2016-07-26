@@ -88,7 +88,8 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Publications
 
-*   _The First Publishing Experience (Or, Using Graduate School Work for a Higher Purpose)_ (contribution), SAA SNAP Roundtable Blog. [permalink](https://snaproundtable.wordpress.com/2015/12/17/on-the-job-training-publishing/)
+*   _Shared inquiry in the archives_ (with Laura Miller), National Council on Public History, History@Work Blog. 26 July 2016. [permalink](http://ncph.org/history-at-work/shared-inquiry-in-the-archives/)
+*   _The First Publishing Experience (Or, Using Graduate School Work for a Higher Purpose)_ (contribution), SAA SNAP Roundtable Blog. 17 December 2015. [permalink](https://snaproundtable.wordpress.com/2015/12/17/on-the-job-training-publishing/)
 *   _My Name Is New York: Ramblin’ around Woody Guthrie's Town_, PowerHouse Books, 2012.
 *   _A Sign of Contradiction: The Record Keeping Practices of the New York City Catholic Worker_, American Catholic Review 121:2 (Summer 2010). [permalink](http://acs.journals.villanova.edu/article/view/465)
 
