@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Critical Work: Archivists as Maintainers"
-date: 2016-07-02
+date: 2016-08-02
 categories: archives
 ---
 
