@@ -55,7 +55,7 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Skills
 
-*   **Natural Languages**: Spoken and written English; reading knowledge of Spanish and German; familiarity of Urdu.
+*   **Natural Languages**: Spoken and written English; reading knowledge of Spanish and German; familiarity with Urdu.
 *   **Programming Languages**: Ruby, Python, PHP, SQL, Unix shell scripts.
 *   **Applications**: Microsoft Office, Adobe Creative Suite, Archivists’ Toolkit, ArchivesSpace.
 *   **Web Frameworks/Content Management Systems**: Rails, Drupal, WordPress, AngularJS, Bootstrap.
@@ -68,6 +68,7 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Papers and Presentations
 
+*   _Critical Work: Archivists as Maintainers_, (speaker) Society of American Archivists Research Forum, August 2016
 *   _Foundation Archives: How Changes to the Way We Work is Sparking Innovation in the Way We Record Our History_, (panelist) Philanthropy New York, March 2016
 *   _staticAid: a static site generator for archival description_, (speaker) Code4Lib Conference, March 2016
 *   _From Transfer to Access: Digital Records at the Rockefeller Archive Center_, (speaker) Consortium of Foundation Libraries, Council on Foundations, July 2015
