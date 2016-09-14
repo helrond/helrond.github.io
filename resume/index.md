@@ -97,7 +97,7 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 ## Teaching
 
 *   _Introduction to DACS_, (instructor) Society of American Archivists, 2013-present
-*   _Advanced Archival Description_ (adjunct professor) New York University, Fall 2015
+*   _Advanced Archival Description_ (adjunct professor) New York University, 2015 - present
 
 ## Memberships and Professional Service
 
