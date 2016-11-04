@@ -18,9 +18,9 @@ If we dig into that seemingly mundane language though, a question might occur to
 
 I am often reminded of this Ani Difranco lyric when thinking about records.
 
-People used to make records  
-As in a record of an event  
-The event of people playing music in a room
+     People used to make records  
+     As in a record of an event  
+     The event of people playing music in a room
 
 For me, it lays out what records are and do: they are about people, people in relationships, the kinds of creativity that come from those relationships, about time and space.
 
