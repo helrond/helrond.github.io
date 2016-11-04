@@ -6,7 +6,7 @@ categories: archives
 ---
 *Following is the text of a talk I delivered at [The Word is Action: Engaging the Bible and Social Justice in memory of Walter Wink](http://clbsj.org/events/2016/10/20/the-word-is-action-engaging-the-bible-and-social-justice-in-memory-of-walter-wink/), a conference celebrating the fifth anniversary of [The Center and Library for the Bible and Social Justice](http://clbsj.org). As I was writing this talk, my colleague Jarrett Drake delivered a co-keynote address at a [Community Archives Forum](http://diversifyingthedigital.org/forum-one.html) hosted at UCLA. His talk covers all that I wanted to say and more, and is far more direct, eloquent and insightful than I anything I could ever hope to write. The text of his talk is [available on Medium](https://medium.com/on-archivy/liberatory-archives-towards-belonging-and-believing-part-1-d26aaeb0edd1), and I’d encourage you all to read and absorb it.*
 
-# What archives are and what they do
+## What archives are and what they do
 
 I wanted to talk about what archives are, but also what I believe they can be. This presentation was (perhaps unintentionally) inspired by Norman, who made a remark in passing that archives seemed somewhat peripheral to the concerns of CLBSJ and of this gathering. Everyone is self-interested and wants to believe their work is important, but I think I have some good reasons to make the case that, in fact, archives are of central importance both to the experiment that is CLBSJ, as well as to movements that seek to create a more just, equitable and humane world.
 
@@ -14,7 +14,7 @@ Usually when we talk about archives we say they do something like "acquire, pres
 
 If we dig into that seemingly mundane language though, a question might occur to us: what are these records of historical significance, and what can be done with them?
 
-## What are records?
+### What are records?
 
 I am often reminded of this Ani Difranco lyric when thinking about records.
 
@@ -34,19 +34,19 @@ All too often, archives are places where oppression is legitimized and normalize
 
 To make my point, I wanted to tell you all a little about my journey to becoming an archivist, along the way laying out how I think archives can participate in the work of justice.
 
-# Creativity
+## Creativity
 
 I got my start in archives as an undergraduate student at Hunter College when I interned at the [Woody Guthrie Archives](http://www.woodyguthrie.org/). For those of you that don’t know, [Woody Guthrie](https://en.wikipedia.org/wiki/Woody_Guthrie) was a folk musician and activist who is an incredibly influential figure in American music, a direct precursor to people like Bob Dylan and Pete Seeger, who left behind a collection of diaries, notebooks, scrapbooks and song lyrics. His family took the radical step of opening up this very personal collection to the public, despite the complex and sometimes less-than-flattering portrait they painted of their husband and father. Not only that, but in addition to welcoming others in, they partnered with [musicians](https://en.wikipedia.org/wiki/Mermaid_Avenue) and [artists](https://www.amazon.com/Woody-Guthrie-Artworks-Steven-Brower/dp/0847827380) of all stripes to take fragments of song lyrics, drawings, journal entries and reuse and remix them as [new songs](http://www.newmultitudes.com/), artwork, [soundtracks](https://en.wikipedia.org/wiki/I%27m_Shipping_Up_to_Boston) and so on. In other words, they didn’t want people just to come and see, observing from a remote distance, but they wanted people to come and touch, understand, be challenged and ultimately to create something.
 
 Conceptualizing archives as places of creativity - and maybe this idea extends beyond just archives - de-centers authority, because it allows marginalized voices to express themselves in new ways. I’d also argue that dominant narratives have often immunized themselves pretty well against more conventional expressions (like scholarly journal articles or even mass demonstrations), so it’s often necessary to use new tools in order to break into the master’s house and bind the strong man. The axis tilts and wobbles, cracks are revealed, we catch a glimpse of the man behind the curtain.
 
-# Resistance
+## Resistance
 
 My interest in the potential of archives as places to formulate and enact resistance continued through my graduate studies. That often starts with the historical legal accountability that archives can provide. For example, I’d point you to Verne Harris’ work on the [role that archives played in South Africa’s Truth and Reconciliation Commission](http://dx.doi.org/10.17723/aarc.57.4.62476v2610630817), The [Guatemalan National Police Archive](https://ahpn.lib.utexas.edu/) which documents many of the human rights abuses perpetrated in that country, and discussions of the Stasi archives, including [Timothy Garton Ash’s book ](https://www.theguardian.com/books/2009/aug/29/the-file-timothy-garton-ash)[The File](https://www.theguardian.com/books/2009/aug/29/the-file-timothy-garton-ash), which traces his personal connection to records in that archive.
 
 I also began to understand archives as texts. Like many others at this conference will tell you, texts are contextually situated, and you cannot fully understand them until you understand the socioeconomic context in which they were created. In addition, they can be read against the grain, bent to purposes their creators never intended or foresaw. You can see some great examples of this in the work of archivists like [Tim Sherratt](http://discontents.com.au/), who use technologies like facial recognition software to detect and crop [the faces of itinerant Asian and Pacific Island laborers](http://invisibleaustralians.org/faces/) from Australian customs records created with the purpose of surveilling and excluding those individuals. So these records contain the potential to be turned back on themselves, to center and lift up the very individuals they sought to exclude.
 
-# Liberation
+## Liberation
 
 For a number of years now I’ve been working with technology in archives. Although we often talk about the liberatory potential of technology (particularly social media), and how it can help build and amplify social movements, I’ve become keenly aware of how much work it takes to keep things running. This is work that’s usually pretty invisible and doesn’t get the awards, fancy job titles, or top dollars that go to people who invent new things. Although this is certainly true in other industries, it’s very obvious in technology work that [we privilege innovators and disruptors rather than the maintainers](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more) - the people that keep all those new inventions working. Unsurprisingly, maintenance work is often gendered and racialized, a characteristic that artist [Mierle Laderman Ukeles](https://en.wikipedia.org/wiki/Mierle_Laderman_Ukeles) noted in her [Manifesto for Maintenance Art 1969](http://www.arnolfini.org.uk/blog/manifesto-for-maintenance-art-1969).
 
