@@ -2,11 +2,12 @@
 layout: default
 title: Music
 ---
-#Music
+
+# Music
 
 I sing and play guitar, banjo and bass, and possibly other things with strings. I write my own songs, and you can see the lyrics of most of them [here](http://songs.hillelarnold.com "songs.hillelarnold.com").
 
-##Bands
+## Bands
 
 [The Mermaids](http://the-mermaids.com) is a rock and roll band I started with my friend Josh. We both play guitar, sing, and write songs. We have put out two full-length albums and an EP, and sometimes play shows in NYC, Boston and Washington, DC.
 
