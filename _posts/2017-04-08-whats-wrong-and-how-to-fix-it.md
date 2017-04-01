@@ -61,7 +61,7 @@ By arguing that maintenance is a performance, I am also arguing that maintainers
 
 # Conclusion
 
-I argue that Woody Guthrie’s creative output - and more broadly tradition-based performing arts - is maintenance work. It turns the old into the new, and the new into the old. It helps us understand the world and our place in it. It’s about what’s wrong and how to fix it.
+I argue that Woody Guthrie’s creative output - and more broadly tradition-based performing arts - is maintenance work. It turns the old into the new, and the new into the old. It helps us understand the world and our place in it. It helps us understand that our connection to other people and traditions is more important than coming in first. It’s about what’s wrong and how to fix it.
 
 Maintenance is often layered on maintenance. The completion of maintenance in the present depends both on that work having been done in the past as well as the promise that it will be done in the future. Maintainers need maintenance too. By remembering the work of maintainers, we commit our own small act of maintenance, carrying forward their lives and the value of their work.
 
