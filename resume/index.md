@@ -89,6 +89,7 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Publications
 
+*   "Implementing Schema.org at Rockefeller Archive Center" (case study) in _Putting Descriptive Standards to Work_ (eds. Kris Kiesling and Chris Prom), Society of American Archivists, 2017. [permalink](https://saa.archivists.org/store/putting-descriptive-standards-to-work/)
 *   _Shared inquiry in the archives_ (with Laura Miller), National Council on Public History, History@Work Blog. 26 July 2016. [permalink](http://ncph.org/history-at-work/shared-inquiry-in-the-archives/)
 *   _The First Publishing Experience (Or, Using Graduate School Work for a Higher Purpose)_ (contribution), SAA SNAP Roundtable Blog. 17 December 2015. [permalink](https://snaproundtable.wordpress.com/2015/12/17/on-the-job-training-publishing/)
 *   _My Name Is New York: Ramblin’ around Woody Guthrie's Town_, PowerHouse Books, 2012.
