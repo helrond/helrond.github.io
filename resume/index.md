@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resume
+published: true
 ---
 # Hillel Arnold
 
@@ -58,7 +59,7 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 *   **Natural Languages**: Spoken and written English; reading knowledge of Spanish and German; familiarity with Urdu.
 *   **Programming Languages**: Ruby, Python, PHP, SQL, Unix shell scripts.
 *   **Applications**: Microsoft Office, Adobe Creative Suite, Archivists’ Toolkit, ArchivesSpace.
-*   **Web Frameworks/Content Management Systems**: Rails, Drupal, WordPress, AngularJS, Bootstrap.
+*   **Web Frameworks/Content Management Systems**: Rails, Django, AngularJS, Bootstrap.
 *   **Operating Systems**: Linux, Mac OS X, Windows.
 *   **Database Systems**: MySQL, MongoDB, Access.
 *   **Web/Markup Languages**: Schema.org, XML, XSLT, HTML5, CSS3, JavaScript, PHP.
@@ -68,6 +69,10 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Papers and Presentations
 
+*   _Learning in Motion: Collaborating Across Organizations to Manage, Preserve & Use Digital Records_, (panelist) Technology Affinity Group, November 2017
+*   _For Good Measure: The Role of Regulatory Records in Environmental Maintenance_, (speaker, with Eira Tansey) Society for the History of Technology, October 2017
+*   _“What’s Wrong and How to Fix It”: Woody Guthrie and the Maintenance of Folk Music_, (speaker) Maintainers II, April 2017
+*   _Archives as Sites of Resistance, Liberation and Creativity_, (speaker) The Word is Action: Engaging the Bible and Social Justice in memory of Walter Wink, October 2016
 *   _Critical Work: Archivists as Maintainers_, (speaker) Society of American Archivists Research Forum, August 2016
 *   _Foundation Archives: How Changes to the Way We Work is Sparking Innovation in the Way We Record Our History_, (panelist) Philanthropy New York, March 2016
 *   _staticAid: a static site generator for archival description_, (speaker) Code4Lib Conference, March 2016
