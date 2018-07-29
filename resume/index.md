@@ -69,26 +69,28 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Papers and Presentations
 
-*   _Learning in Motion: Collaborating Across Organizations to Manage, Preserve & Use Digital Records_, (panelist) Technology Affinity Group, November 2017
-*   _For Good Measure: The Role of Regulatory Records in Environmental Maintenance_, (speaker, with Eira Tansey) Society for the History of Technology, October 2017
-*   _“What’s Wrong and How to Fix It”: Woody Guthrie and the Maintenance of Folk Music_, (speaker) Maintainers II, April 2017
-*   _Archives as Sites of Resistance, Liberation and Creativity_, (speaker) The Word is Action: Engaging the Bible and Social Justice in memory of Walter Wink, October 2016
-*   _Critical Work: Archivists as Maintainers_, (speaker) Society of American Archivists Research Forum, August 2016
-*   _Foundation Archives: How Changes to the Way We Work is Sparking Innovation in the Way We Record Our History_, (panelist) Philanthropy New York, March 2016
-*   _staticAid: a static site generator for archival description_, (speaker) Code4Lib Conference, March 2016
-*   _From Transfer to Access: Digital Records at the Rockefeller Archive Center_, (speaker) Consortium of Foundation Libraries, Council on Foundations, July 2015
-*   _Making EAD Make Sense_, (speaker) New York Archives Conference, June 2015
-*   _Arrangement and Description for Born-Digital Materials_, (speaker, with Bonnie Gordon) CURATEcamp, April 2015
-*   _Better Search Through Listening_, (speaker) edUI Conference, October 2014
-*   _Highways, Wires and Tubes: Regulation, Power and Communication Networks_, (speaker) Society of American Archivists, August 2014
-*   _Testing Early, Testing Often_, (speaker, with Sibyl Schaefer) Mid-Atlantic Regional Archives Conference, May 2013
-*   _The Burning of Paper Instead of Children_, (speaker) Society of American Archivists, August 2012
+*	_Records in Motion: an open, standards-based approach to digital records transfers_, (poster, with Hannah Sistrunk) Society of American Archivists Research Forum, August 2018.
+*	_Archival Values_, (speaker) Society of American Archivists Annual Meeting, August 2018.
+*   _Learning in Motion: Collaborating Across Organizations to Manage, Preserve & Use Digital Records_, (panelist) Technology Affinity Group, November 2017.
+*   _For Good Measure: The Role of Regulatory Records in Environmental Maintenance_, (speaker, with Eira Tansey) Society for the History of Technology, October 2017.
+*   _“What’s Wrong and How to Fix It”: Woody Guthrie and the Maintenance of Folk Music_, (speaker) Maintainers II, April 2017.
+*   _Archives as Sites of Resistance, Liberation and Creativity_, (speaker) The Word is Action: Engaging the Bible and Social Justice in memory of Walter Wink, October 2016.
+*   _Critical Work: Archivists as Maintainers_, (speaker) Society of American Archivists Research Forum, August 2016.
+*   _Foundation Archives: How Changes to the Way We Work is Sparking Innovation in the Way We Record Our History_, (panelist) Philanthropy New York, March 2016.
+*   _staticAid: a static site generator for archival description_, (speaker) Code4Lib Conference, March 2016.
+*   _From Transfer to Access: Digital Records at the Rockefeller Archive Center_, (speaker) Consortium of Foundation Libraries, Council on Foundations, July 2015.
+*   _Making EAD Make Sense_, (speaker) New York Archives Conference, June 2015.
+*   _Arrangement and Description for Born-Digital Materials_, (speaker, with Bonnie Gordon) CURATEcamp, April 2015.
+*   _Better Search Through Listening_, (speaker) edUI Conference, October 2014.
+*   _Highways, Wires and Tubes: Regulation, Power and Communication Networks_, (speaker) Society of American Archivists Annual Meeting, August 2014.
+*   _Testing Early, Testing Often_, (speaker, with Sibyl Schaefer) Mid-Atlantic Regional Archives Conference, May 2013.
+*   _The Burning of Paper Instead of Children_, (speaker) Society of American Archivists Annual Meeting, August 2012.
 *   _The Daily Worker and Daily World Photographs Collection_, (speaker) Archivists Round Table of Metropolitan New York, 2011.
 *   _It’s a Small World After All: The Daily Worker and Daily World Photographs Collection_, (speaker) New York Archives Conference, June 2010.
 *   _Documenting the Asian/Pacific American Community_, (speaker) Archivists Round Table of Metropolitan New York, 2009.
 *   _Audio Collections at the Woody Guthrie Archives_, (speaker) Association of Recorded Sound Collections, New York Chapter, 2009.
 *   _Documenting the Asian/Pacific American Community_, (speaker) Metropolitan New York Library Council, 2009.
-*   _Working with Living Archives: Challenges and Opportunities in a Survey of Asian/Pacific American Collections in the New York Metropolitan Area_, (poster) Society of American Archivists, August 2009.
+*   _Working with Living Archives: Challenges and Opportunities in a Survey of Asian/Pacific American Collections in the New York Metropolitan Area_, (poster) Society of American Archivists Annual Meeting, August 2009.
 *   _Too Much Information: Archival Description of Radical History Collections_, (speaker) National Council on Public History, April 2009.
 *   _Working with Living Archives: Challenges and Opportunities in a Survey of Asian/Pacific American Collections in the New York Metropolitan Area_, (poster) National Council on Public History, April 2009.
 
@@ -103,7 +105,7 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 ## Teaching
 
 *   _Introduction to DACS_, (instructor) Society of American Archivists, 2013-present
-*   _Advanced Archival Description_ (adjunct professor) New York University, 2015 - present
+*   _Advanced Archival Description_ (adjunct professor) New York University, 2015-present
 
 ## Memberships and Professional Service
 
