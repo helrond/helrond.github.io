@@ -126,3 +126,7 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 ### Mid-Atlantic Regional Archives Conference
 
 *   _Member_, 2009-Present.
+
+## Awards
+
+* _DLF Forum Fellowships for Librarians New to the Profession_, Digital Library Federation, Spring 2009
