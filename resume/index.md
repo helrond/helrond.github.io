@@ -9,9 +9,9 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Education
 
-*   Master of Arts in History (concentration in Archival Management), New York University, New York, NY, 2009
-*   Masters of Science in Library and Information Science, Palmer School of Long Island University, New York, NY, 2009
-*   Bachelor of Arts in English Literature (Post Colonial Literature), Hunter College, 2005
+*   **Master of Arts in History** (concentration in Archival Management), _New York University_, New York, NY, 2009
+*   **Masters of Science in Library and Information Science**, _Palmer School of Long Island University_, New York, NY, 2009
+*   **Bachelor of Arts in English Literature** (concentration in Post Colonial Literature), _Hunter College_, 2005
 
 ## Employment
 

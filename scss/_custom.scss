@@ -1,15 +1,5 @@
-h1, h2, h3, h4, h5, h6 {
-	font-weight: 300;
-	@media #{small-up} {
-	}
-	@media #{$medium-up} {
-	}
-	@media #{$large-up} {
-	}
-}
-
 //helper for font weight
-//Open+Sans:400,700,800|Raleway:400,200,700
+//Neuton:200,400,700,800
 .font-light {
 	font-weight: 200;
 }
@@ -23,48 +13,38 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 800;
 }
 
-header h1 {
-	font-size: 1.5rem;
-	margin-top: 1rem;
+.wrap {
+	min-height:100%;
+	position: relative;
 }
 
-//Footer
 .site-footer {
 	position: absolute;
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: #16193B;
-	padding-top:.5rem;
+	background: $white;
+	padding-top:.1rem;
+	color: $primary-color;
+	ul, p {
+    font-size: .75rem;
+		margin-bottom:0;
+	}
 	@media #{$small-up} {
-		height:6rem;
+		height:2rem;
 	}
 	@media #{$medium-up} {
-		height:5rem;
+		height:2rem;
 	}
 	@media #{$large-up} {
-		height:4rem;
+		height:1.5rem;
 	}
 }
 
-.site-footer ul, .site-footer p {
-    font-size: .85rem;
-		color: #fff;
-		margin-bottom:0;
-}
-
-.site-footer a {
-	color: #fff;
-}
-
-.site-footer header {
-	font-family: "Raleway", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-	color: #fff;
-}
-
-.wrap {
-	min-height:100%;
-	position: relative;
+.home {
+	text-align: center;
+	h1 {font-size: 6rem;}
+	p {font-size: 2rem;}
 }
 
 .content.row {
@@ -78,20 +58,6 @@ header h1 {
 	@media #{$large-up} {
 		padding-bottom:4rem;
 	}
-}
-
-h1.home {
-	margin-top: 15%;
-	font-size: rem-calc($h1-font-size * 40);
-}
-
-.home {
-	font-weight: 400;
-}
-
-#home-page {
-	background: radial-gradient(rgba(200, 200, 200, 0.5), rgba(200, 200, 200, 0)), url("/img/background.jpg") no-repeat top center fixed;
-	background-size: cover;
 }
 
 .archive-link a {

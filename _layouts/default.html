@@ -7,60 +7,52 @@
 
     <div class="wrap">
 
-      <div class="contain-to-grid">
-        <nav class="top-bar" data-topbar role="navigation">
-          <ul class="title-area">
-            <li class="name">
-              <h1><a href="{{ site.url }}">hillelarnold.com</a></h1>
-            </li>
-            <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+      <nav class="top-bar" data-topbar role="navigation">
+        <ul class="title-area">
+          <li class="name">
+            <h1><a href="{{ site.url }}">hillelarnold.com</a></h1>
+          </li>
+          <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+        </ul>
+        <section class="top-bar-section">
+          <ul class="right">
+            {% include nav.html %}
           </ul>
-          <section class="top-bar-section">
-            <ul class="right">
-              {% include nav.html %}
-            </ul>
-          </section>
-        </nav>
+        </section>
+      </nav>
+
+      <!--[if lt IE 8]>
+          <div data-alert class="alert-box alert radius" class="browsehappy">Please <a href="http://browsehappy.com/">upgrade your browser</a>. <a href="#" class="close">&times;</a></div>
+      <![endif]-->
+
+      <div class="content row">
+        <section role="main">
+          <div class="small-12 columns">
+
+            {{ content }}
+
+          </div>
+        </section>
       </div>
 
-        <!--[if lt IE 8]>
-            <div data-alert class="alert-box alert radius" class="browsehappy">Please <a href="http://browsehappy.com/">upgrade your browser</a>. <a href="#" class="close">&times;</a></div>
-        <![endif]-->
-
-        <div class="content row">
-          <section role="main">
-            <div class="small-12 columns">
-
-              {{ content }}
-
-            </div>
-          </section>
-        </div>
-
-        <footer class="site-footer" role="contentinfo">
-          <div class="row">
-            <div class="large-12 columns">
-              <div class="left small-6 columns">
-                <header>Contact</header>
-                <ul class="inline-list">
-                  <li><a href="mailto:{{ site.email }}"> Email</a></li>
-                  <li><a href="https://twitter.com/{{ site.twitter }}" rel="me"> Twitter</a></li>
-                  <li><a href="https://github.com/{{ site.github }}/" rel="me"> Github</a></li>
-                  <li><a href="https://linkedin.com/pub/hillel-arnold/b/86b/807"> LinkedIn</a></li>
-                </ul>
-              </div>
-              <div class="small-6 columns right">
-                <p class="text-right">
-                  Cover photograph courtesy Azra Dawood
-                  <br />
-                  <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Site design &amp; content</span> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC&#8209;BY</a>
-                </p>
-              </div>
-            </div>
+      <footer class="site-footer" role="contentinfo">
+        <div class="large-12 columns">
+          <div class="left small-6 columns">
+            <ul class="inline-list">
+              <li><a href="mailto:{{ site.email }}"> Email</a></li>
+              <li><a href="https://twitter.com/{{ site.twitter }}" rel="me"> Twitter</a></li>
+              <li><a href="https://github.com/{{ site.github }}/" rel="me"> Github</a></li>
+              <li><a href="https://linkedin.com/pub/hillel-arnold/b/86b/807"> LinkedIn</a></li>
+            </ul>
           </div>
-        </footer>
+          <div class="small-6 columns right">
+            <p class="text-right">
+              <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Site design &amp; content</span> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC&#8209;BY</a>
+            </p>
+          </div>
+        </div>
+      </footer>
 
-      <!-- </div> -->
     </div>
 
     <!-- Scripts -->
