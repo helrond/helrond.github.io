@@ -43,6 +43,10 @@
 
 .home {
 	text-align: center;
+	display: flex;
+  flex-direction: column;
+  justify-content: center;
+	min-height: 75vh;
 	h1 {font-size: 6rem;}
 	p {font-size: 2rem;}
 }
