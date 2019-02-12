@@ -2,7 +2,7 @@ name : hillelarnold.com
 brand : hillelarnold.com
 description : True as the average.
 keyword : music, archives
-url : http://hillelarnold.com/
+url : http://hillelarnold.com
 email : hillel@hillelarnold.com
 twitter : helrond
 github : helrond
@@ -13,3 +13,5 @@ markdown : kramdown
 permalink: blog/:year/:month/:title/
 exclude :
   - node_modules
+plugins:
+  - jekyll-sitemap
