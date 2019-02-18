@@ -4,7 +4,7 @@ title: "&ldquo;What’s Wrong and How to Fix It&rdquo;: Woody Guthrie and the Ma
 date: 2017-04-08
 categories: music
 ---
-# Intro
+## Intro
 
 In September 1940, Oklahoma-born musician, writer, artist and activist Woody Guthrie wrote to Alan Lomax at the Library of Congress, laying out his philosophy of folk music. &ldquo;A folk song,&rdquo; he wrote &ldquo;is what’s wrong and how to fix it,&rdquo; as clear a statement of what maintenance is and does as any you’ll hear this conference.<sup><a href="#footnote1">1</a></sup>
 
@@ -12,7 +12,7 @@ I argue that Guthrie’s understanding of folk music as maintenance is manifeste
 
 I want to be clear about what I think maintenance is and does. I understand maintenance as a form of care work, and therefore work that is embodied, emotional and performative.<sup><a href="#footnote2">2</a></sup> I also understand it as cyclical and dialogic work where the doing of and the learning from are inextricably related. Maintainers diagnose, fix and test while learning how to do those things more effectively at the same time.
 
-# Writing maintenance
+## Writing maintenance
 
 As he crisscrossed the country, Guthrie wrote songs and produced artwork that amplified the lives and voices of the maintainers whose company he kept.
 
@@ -28,11 +28,11 @@ Guthrie’s concern with maintainers extends to the systems they build and keep 
 
 During the time he lived in New York City, Guthrie wrote about the city’s infrastructure. The themes should be familiar to current and past residents: wonder, awe, annoyance, and not infrequent bemusement about how things keep on working. Often impersonating a country rube, he wrote about the subways,<sup><a href="#footnote9">9</a></sup> derided extortionist landlords (one of whom happens to be our current President’s father)<sup><a href="#footnote10">10</a></sup> and marveled over the mosaic of sounds, smells and tastes that made up his Coney Island neighborhood.<sup><a href="#footnote11">11</a></sup> Sometimes he even speaks as the city itself.<sup><a href="#footnote12">12</a></sup>
 
-# Methodologies of maintenance
+## Methodologies of maintenance
 
 However, it is not simply the topics of Guthrie’s songs that connect him so closely to maintenance. Instead, I argue his methodologies of composing and performing exemplify an approach to maintenance as a performative act of iterative improvisation.
 
-## Iteration
+### Iteration
 
 Guthrie took an iterative approach to creative expression. That is, he generally used existing ideas, traditions and compositions as a basis for variations.<sup><a href="#footnote13">13</a></sup> This approach injects power into the new variation while simultaneously reframing the existing tradition.
 
@@ -42,7 +42,7 @@ And we see it in his participation in the tradition of answer songs. Written in 
 
 This approach to creative expression privileges incremental change over rupture. It recognizes that the already vulnerable are placed directly in harm’s way by massive and sudden changes. Although aligned with leftist politics, Guthrie’s approach to social change is one of incrementalism rather than revolution: of outlasting, outnumbering and outwitting.<sup><a href="#footnote17">17</a></sup>
 
-## Improvisation
+### Improvisation
 
 In 1949, Guthrie performed a concert at Fuld Hall, just down the road from here in Newark. Prefacing his song &ldquo;Dust Bowl Blues&rdquo; with an extended monologue on how he and his then-wife Marjorie Mazia met during a dance rehearsal, Guthrie expresses frustration with having to reproduce a song &ldquo;beat for beat, pause for pause&rdquo; based on a recording.<sup><a href="#footnote18">18</a></sup> Underlying this frustration is a drive towards continual exploration and iteration in search of a better version of the song.
 
@@ -50,7 +50,7 @@ This kind of iteration through improvisation is, I argue, fundamental to mainten
 
 This drive towards improvement might sound a lot like what we’d call innovation, but I argue there’s a key difference. Iterative improvisation values continuity, tradition and lived experience, innovation values exceptionalism, difference and abstraction. Guthrie was not trying to obliterate tradition, instead he was trying to speak to it and through it.<sup><a href="#footnote19">19</a></sup>
 
-## Performance
+### Performance
 
 We usually talk about maintenance as being &ldquo;performed&rdquo; rather than merely &ldquo;done.&rdquo; This indicates the fundamentally social and performative nature of maintenance. It is not just the work of repair, but also the reception and perception of that work by others: &ldquo;Did I fix it? Do they think I fixed it? Do I think they think I fixed it?&rdquo;
 In Guthrie’s performances, we see this social dimension of maintenance in operation. Although in popular imagination he is thought of as a solitary musician, in reality he tended to create and perform in collaboration with other musicians and artists.<sup><a href="#footnote20">20</a></sup> His family were collaborators too. For a period of time in the 1940’s, Guthrie was a stay-at-home dad, and his creative output reflects his children's: artwork with bright colors and simple lines, and songs that play with sounds and language.<sup><a href="#footnote21">21</a></sup>
@@ -59,7 +59,7 @@ Marjorie Mazia, who I mentioned above, was his most effective collaborator and c
 
 By arguing that maintenance is a performance, I am also arguing that maintainers are aware - on some level - that they are performing a role. Maintenance work is often described as &ldquo;invisible&rdquo; or &ldquo;hidden&rdquo; - words I’ve used myself - but if we accept that maintainers maintain self-consciously, then perhaps those terms say more about the blindness of those of us using them than they do about the reality of maintenance work.
 
-# Conclusion
+## Conclusion
 
 I argue that Woody Guthrie’s creative output - and more broadly tradition-based performing arts - is maintenance work. It turns the old into the new, and the new into the old. It helps us understand the world and our place in it. It helps us understand that our connection to other people and traditions is more important than coming in first. It’s about what’s wrong and how to fix it.
 

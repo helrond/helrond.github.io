@@ -1,6 +1,6 @@
 <h2>{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}
   <small>
-    <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>{{ post.date | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>"}}</time>
+    <time class="post-time" datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>{{ post.date | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>"}}</time>
   </small>
 </h2>
 <p>

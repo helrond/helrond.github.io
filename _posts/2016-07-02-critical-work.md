@@ -11,13 +11,13 @@ Over the past year, I’ve been introduced to [maintenance theory](http://themai
 
 In putting together this talk, I've developed a list of of [further readings](https://www.zotero.org/helrond/items/collectionKey/4UMPATSU), which might be useful to you as well!
 
-# Origins
+## Origins
 
 Recently, scholars in [science and technology studies](https://en.wikipedia.org/wiki/Science,_technology_and_society) have examined maintenance in an effort to correct narratives that valorize individual innovators and disruptors, arguing that this emphasis on newness and innovation erases labor and bodies. Asking "[who does maintenance work, when and where and why?](https://gdowney.files.wordpress.com/2013/11/downey-g-2014-in-gillespie-t-et-al-eds-2014-making-media-work.pdf)" they look to reveal and empower maintenance and the people who do it.
 
 Maintenance theory is closely related to the history of infrastructure, systems and [repair](http://reclaimingrepair.com/),<sup>1</sup> and is also indebted to [feminist care ethics](http://www.iep.utm.edu/care-eth/), which locates morality in affective understanding,<sup>2</sup> real relationships, concrete responsibilities and specific contexts.<sup>3</sup> It draws on the arts as well.<sup>4</sup>
 
-# Characteristics<sup>5</sup>
+## Characteristics<sup>5</sup>
 
 So what exactly is maintenance?
 
@@ -31,7 +31,7 @@ Due to these characteristics, maintenance is often invisible, at least until som
 
 Perhaps the most important thing to understand about maintenance work is that it is subject to power relations in society, and can also reveal the nature of that power.<sup>7</sup> Because it is largely invisible labor, maintenance work is generally performed by individuals marked and marginalized by race, class, or gender. As a result, maintenance workers have a complicated relationship to power - it’s not as though they have no agency - but their power is largely the ability to withhold.<sup>8</sup>
 
-# Implications for archivists
+## Implications for archivists
 
 I said at the outset that archivists have an invisibility problem. As a profession, we’re chronically underpaid, and our programs are understaffed and filled with temporary employees. Popular narratives portray archivists as iconoclastic "save-iors"<sup>9</sup> or erase our labor through stories which celebrate the “discovery” of “lost” archival records.<sup>10</sup> [Consumer products](http://www.wikihow.com/Find-Archived-Mail-on-Gmail) use the word “archive” to refer to functionality that removes information from view without deleting it, and scholarly discourse often treats “The Archive” as an [abstract concept and theoretical state](http://reconstruction.eserver.org/Issues/161/Caswell.shtml) rather than a real place where real people do real labor.<sup>11</sup>
 
