@@ -96,6 +96,7 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Publications
 
+*   _Information Maintenance as a Practice of Care_ (contributor). [permalink](https://doi.org/10.5281/zenodo.3236409)
 *   _The Future of Email Archives_ (contributor), Council on Library and Information Resources, August 2018. [permalink](https://www.clir.org/pubs/reports/pub175/)
 *   _Research Agenda: Valuing Labor in Digital Libraries_ (contributor), DLF Working Group on Labor in Digital Libraries, August 2018. [permalink](https://wiki.diglib.org/images/d/d0/DLF_ValuingLabor_ResearchAgenda_2018.pdf)
 *   "Implementing Schema.org at Rockefeller Archive Center" (case study) in _Putting Descriptive Standards to Work_ (eds. Kris Kiesling and Chris Prom), Society of American Archivists, 2017. [permalink](https://saa.archivists.org/store/putting-descriptive-standards-to-work/)
@@ -106,8 +107,8 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Teaching
 
-*   _Introduction to DACS_, (instructor) Society of American Archivists, 2013-present
-*   _Advanced Archival Description_ (adjunct professor) New York University, 2015-present
+*   _Introduction to DACS_, (instructor) Society of American Archivists, 2013-2016
+*   _Advanced Archival Description_ (adjunct professor) New York University, 2015-2018
 
 ## Memberships and Professional Service
 
