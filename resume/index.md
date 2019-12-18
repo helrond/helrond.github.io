@@ -15,7 +15,16 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Employment
 
-**Assistant Director, Head of Digital Programs** (June 2012-present) - _Rockefeller Archive Center_, Sleepy Hollow, NY
+**Assistant Director, Head of Digital Programs** (January 2016-present) - _Rockefeller Archive Center_, Sleepy Hollow, NY
+
+*   Promote learning across the organization, particularly in areas of technology
+*   Collaborate closely with the Director of Archives and members of the Archives Management team to iteratively improve efficiency and the user experience of archival processes.
+*   In collaboration with the Director of Archives and members of the Archives Management Team, lead strategic implementation and/or decommissioning of systems to support archival processes.
+*   Facilitate strategic adoption of and compliance with archival standards.
+*   Contribute to and encourage RAC participation in open source communities and the archival profession with code, policy development, professional service and publication in professional venues.
+*   Maintain awareness and develop in-depth knowledge of new technology, relevant national standards and best practices through professional meetings, conferences, workshops, and other educational and networking opportunities; assesses and integrates new developments into the digital program.
+
+**Digital Archivist** (June 2012-December 2016) - _Rockefeller Archive Center_, Sleepy Hollow, NY
 
 *   Implement, develop and maintain a variety of user-centered technical solutions to increase discoverability of and access to archival materials.
 *   Identify use cases, develop functional requirements, implement and customize systems to match those use cases and requirements.
@@ -97,7 +106,7 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Publications
 
-*   "Practicing Care: Constructing Social Responsibility through Feminist Care Ethics" in __Archival Values: Essays in Honor of Mark A. Greene__, Society of American Archivists, 2019.
+*   "Practicing Care: Constructing Social Responsibility through Feminist Care Ethics" in _Archival Values: Essays in Honor of Mark A. Greene_, Society of American Archivists, 2019.
 *   _Information Maintenance as a Practice of Care_ (co-author). [permalink](https://doi.org/10.5281/zenodo.3236409)
 *   _The Future of Email Archives_ (contributor), Council on Library and Information Resources, August 2018. [permalink](https://www.clir.org/pubs/reports/pub175/)
 *   _Research Agenda: Valuing Labor in Digital Libraries_ (contributor), DLF Working Group on Labor in Digital Libraries, August 2018. [permalink](https://wiki.diglib.org/images/d/d0/DLF_ValuingLabor_ResearchAgenda_2018.pdf)
