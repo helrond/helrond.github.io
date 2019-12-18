@@ -69,6 +69,7 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Papers and Presentations
 
+*	_Developing a Community-Based Strategic Agenda to Transform Archival Discovery and Delivery_, (panelist) Coalition for Networked Information, December 2019.
 *	_Records in Motion: an open, standards-based approach to digital records transfers_, (poster, with Hannah Sistrunk) Society of American Archivists Research Forum, August 2018.
 *	_Archival Values_, (speaker) Society of American Archivists Annual Meeting, August 2018.
 *   _Learning in Motion: Collaborating Across Organizations to Manage, Preserve & Use Digital Records_, (panelist) Technology Affinity Group, November 2017.
@@ -96,6 +97,7 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Publications
 
+*   "Practicing Care: Constructing Social Responsibility through Feminist Care Ethics" in __Archival Values: Essays in Honor of Mark A. Greene__, Society of American Archivists, 2019.
 *   _Information Maintenance as a Practice of Care_ (co-author). [permalink](https://doi.org/10.5281/zenodo.3236409)
 *   _The Future of Email Archives_ (contributor), Council on Library and Information Resources, August 2018. [permalink](https://www.clir.org/pubs/reports/pub175/)
 *   _Research Agenda: Valuing Labor in Digital Libraries_ (contributor), DLF Working Group on Labor in Digital Libraries, August 2018. [permalink](https://wiki.diglib.org/images/d/d0/DLF_ValuingLabor_ResearchAgenda_2018.pdf)
