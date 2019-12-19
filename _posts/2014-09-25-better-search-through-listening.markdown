@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Better Search Through Listening"
-date: 2014-09-30
+title: Better Search Through Listening
+date: 2014-09-25T00:00:00.000Z
 comments: true
 categories: archives
+published: true
 ---
 <small>Following is the text for a talk I gave at the 2014 <a href="http://eduiconf.org/">edUi</a> conference in beautiful Richmond, Virginia. Slides for the talk are available <a href="http://hillelarnold.com/edui-listen/#/">here</a>. If you like this talk, you'll also probaby like an <a href="http://blogs.loc.gov/digitalpreservation/2014/09/were-all-digital-archivists-now-an-interview-with-sibyl-schaefer/">interview with my boss Sibyl Schaefer</a> in "The Signal," which covers much of the same territory, although from a more holistic perspective.</small>
 
 Good morning! My name is Hillel, and I’ll be talking to you about a project I’ve been involved in over the past few years to radically overhaul a discovery system for unique archival material. I’ll talk about where we started, cover a few of the problems we encountered and the tools and methodologies we used to solve them, and finish up with some of the lessons learned along the way.<!--more-->
 
-##Institutional Context
+## Institutional Context
 But first, I want to provide some context by talking a bit about where I work, since that will inform the rest of this talk, and also because it’s a bit of an unusual place. I work at the [Rockefeller Archive Center](http://www.rockarch.org), which is a private research center founded in 1974 located in Sleepy Hollow, New York[^1] (right next to Tarrytown and the Tappan Zee Bridge over the Hudson River). We’re not affiliated with any college or university, but we support learning and scholarship as part of our core mission. Our holdings are mostly archives – unique primary source material created by a variety of people and institutions. As you might guess from our name, we house the collections of prominent members of the [Rockefeller family](http://rockarch.org/collections/family/), but we also hold the records of the numerous charitable organizations they founded. Our researchers come from all over the world and are interested in a [wide variety of topics](http://rockarch.org/publications/resrep/); the history of medicine, public health, education, philanthropy; you name it, we’ve got it!
 
 More specifically, I work as a part of a team with three others. We work together on almost everything, and the work I’m presenting today is no exception. There’s no part of what I did that came out of my brain alone; everything was improved and enhanced by someone else on the team. 
@@ -18,7 +19,7 @@ The [Digital Team](http://rockarch.org/programs/digital/)(or D-Team for short) d
 
 A couple of years ago, we had only some very incomplete and unstructured descriptions of our holdings available online. Most of the description of our holdings lived onsite only, in an impressive (and color-coded) array of three-ring binders. It became clear that we needed a way for researchers to search information about our holdings online, so that they could discover what we have and figure out which of our materials might be relevant to their research before they made the trip to visit us in person. Shortly before I joined the RAC, a system called the [eXtensible Text Framework](http://xtf.cdlib.org), or XTF, an open-source product developed by the California Digital Library was implemented. It’s a very simple system that relies on a series of XSL transformations to turn structured data (usually XML) into web pages, and it has some very powerful search features built in which are suitable for a range of users’ experiences and expectations. XTF fulfilled many of our functional requirements out of the box, which was great, but it was also apparent almost immediately that there were some problems.
 
-##Known problems
+## Known problems
 The default web interface for XTF is in frames. I probably don’t need to tell this group how problematic that is, but in case you don’t know, it turns out that in addition to being an obsolete technology and presenting [tons of usability problems](http://www.nngroup.com/articles/why-frames-suck-most-of-the-time/), frames also cause [huge problems for web crawlers](http://www.eric-a-hall.com/articles/19980209.html).  In addition, the interface makes ample use of HTML tables. When I say “ample” I mean there are tables within tables within tables within tables. Oh, and there are lots of inline styles baked into the various pages.
 
 If that weren’t enough, the system kept crashing on us - in the process displaying a very uninformative error message - and we weren’t sure why.  We knew it had something to do with the size of the files it was trying to load, but we weren’t sure where the problem was, or how to resolve it. 
@@ -39,14 +40,14 @@ We also had some data on our researchers – contact information, research topic
 
 In short - we knew there were problems but we didn’t know exactly what they were or how to fix them.
 
-##What we did
+## What we did
 Since we knew we had a variety of problems, we knew we’d need a variety of tools and approaches to help diagnose and solve these problems, and we knew we’d need to work iteratively. Some issues could easily be assessed and evaluated by keeping track of a single metric over a couple of months; others required more sophisticated measurement using qualitative and quantitative methods. 
 
 To get hard numbers, we used web analytics in combination with server logs, which gave us pretty granular information about the ways our users were interacting with the system.
 
 To complement that, we also ran a series of low-cost usability tests to give us insight into interactions with particular features, and to expose problem areas that might not otherwise have occurred to us. We also took steps to try and change the organizational culture around technology and the user experience.
 
-###Web analytics
+### Web analytics
 Probably everyone here is familiar with web analytics, and probably most of you use them. I know there are [more focused sessions](http://eduiconf.org/sessions/edui_analytics/) on this topic here at edUI (which I look forward to attending so I can hear how everything I’m about to tell you is wrong), so I won’t go into a lot of detail about how you do this, but instead I’ll focus on what we learned. 
 
 The thing that jumped out at us right away when we started looking at our web analytics data was that we were getting almost no search traffic from web search engines. On a monthly basis, we routinely received less than five percent of our monthly traffic from search engines.
@@ -69,7 +70,7 @@ Most of the time, this data helps us make decisions about UI elements. For examp
 
 Events tracking also helps us evaluate how good a job we’re doing of explaining what our collections are about, and can help us think about how much time we’re investing in creating different pieces of content that explain our holdings. For example, you can see here that we’ve broken up some of the contextual information about our finding aids into different pieces. We’ve added analytics events on all of these menu items, so we can get click counts over time on which items are more popular. It might surprise you to know that “Access and Use Restrictions” is the most commonly-clicked table of contents item (or it might not). It certainly surprised us, and made us come up with more standardized and carefully worded statements for that section. By comparison, we often spend a lot of time crafting language for a “Biographical/Historical note,” which gives users some context about the person or organization that created the collection. Users click on that item far less frequently, which means that maybe we need to de-emphasize that piece of content and instead point to other sources of that contextual information.
 
-###Server logs
+### Server logs
 I mentioned earlier that when we first launched the system, it kept crashing and we couldn’t figure out why. I had some anecdotal evidence from staff about various things that caused the system to crash, but I wasn’t able to see a pattern immediately. So I decided to dive into the server logs and see if I could figure out what was happening under the hood.
 
 Any web server will generate pretty [detailed logs](http://httpd.apache.org/docs/2.4/logs.html) telling you what’s going on. What you need to do is first figure out where those logs are and then figure out what they are telling you. There are tons of tutorials out there on both these subjects; a quick Google search will turn up more than enough! There’s a lot of information you can get out of these logs, URL requests, search queries, response times, error messages, HTTP response codes…and the list goes on.
@@ -88,7 +89,7 @@ We reworked our search interface so that a user could see the title, date, exten
 
 The technology behind this isn’t all that fancy; just some basic jQuery and CSS that shows and hides a details popover when you hover over a hit, and some javascript that saves information to session variables. I wrote a [blog post](http://rockarch.org/programs/digital/bitsandbytes/?p=951) about this with some before and after screenshots, if you’re interested in more details. 
 
-###Usability testing
+### Usability testing
 As you can imagine, for a substantial change to the system, like a complete overhaul of the search interface, we wanted to evaluate whether or not this was actually an improvement before moving those changes into production. We did this by running a series of low-cost usability tests.
 
 In some ways, we have a unique (and fortunate) institutional context, which makes doing these tests relatively easy. First of all, we aren’t subject to IRB rules and processes. Second, because of where we’re located, (a bit far from the nearest large city---NYC), we don’t take walk-in researchers, and tend to have a lot of contact with researchers before they ever show up onsite. Because of such close communication with our users, it’s easy for us to ask them to be test subjects, and they are usually happy to do it. To sweeten the deal, we offer our testers a $25 Amazon gift card.
@@ -99,7 +100,7 @@ You’re right; it’s not quite that easy! I find that writing the tasks is the
 
 In addition to testing the new search interface with real users, we also ran tests for almost every substantial change to the system. When we added the ability to view digitized material, we tested. When we added catalog records of books to the system, we tested. When we removed the “view more like this” functionality, we tested. The more you test, the easier it gets; the better you get at it, the more useful the data that you are able to collect.
 
-###Changing organizational culture
+### Changing organizational culture
 Finally, I want to talk about what I think is the most important thing we’ve done as a part of this project, which is to start to create organizational awareness about, and investment in, the user experience. This is definitely an ongoing process and something we’re continuing to push whenever we can, so I definitely can’t say we’re done with this, but I think it’s still worth talking about some of our strategies.
 
 For us, this started with a set of values that we developed as a team. These help orient our work and are really useful when taken in combination with the long- and short-term work plan for our department. Our vision tells us where we’re heading; our work plan tells us what we need to do; our values tell us how to go about doing those things. We’re continually revising these, and we are in the middle of one such revision, so I unfortunately can’t share them with you right now, but one value that I am sure will remain at the top of the list is a focus on the user. Part of that focus is helping the rest of the organization understand the importance of the user experience in [all facets of the work we do](http://rockarch.org/programs/digital/bitsandbytes/?p=1036), and to try and get all of our thinking to shift to include a user perspective.
@@ -133,4 +134,3 @@ I hope this presentation has given you a good sense of some tools, methodologies
 [^1]: Yes, it’s a real place. No, there aren’t any [headless horsemen](http://en.wikipedia.org/wiki/The_Legend_of_Sleepy_Hollow), unless you count the [town’s official seal](http://thefairytaletraveler.com//wp-content/uploads/2014/02/Sleepy-Hollow-Police-Car.jpg).
 [^2]: When I started working on this project I’d played around a bit on the command line, but I was far from being an expert server administrator. So these are things you can definitely do, regardless of your previous experience with server administration, as long as you have the necessary permissions.
 [^3]: This set of information complies with the minimum requirements for single-level description in [Describing Archives: A Content Standard (DACS)](http://www2.archivists.org/standards/dacs).
-
