@@ -106,7 +106,7 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Publications
 
-*   "Practicing Care: Constructing Social Responsibility through Feminist Care Ethics" in _Archival Values: Essays in Honor of Mark A. Greene_, Society of American Archivists, 2019.
+*   "Practicing Care: Constructing Social Responsibility through Feminist Care Ethics" in _Archival Values: Essays in Honor of Mark A. Greene_, Society of American Archivists, 2019. [preprint](https://osf.io/preprints/lissa/5yzc4)
 *   _Information Maintenance as a Practice of Care_ (co-author). [permalink](https://doi.org/10.5281/zenodo.3236409)
 *   _The Future of Email Archives_ (contributor), Council on Library and Information Resources, August 2018. [permalink](https://www.clir.org/pubs/reports/pub175/)
 *   _Research Agenda: Valuing Labor in Digital Libraries_ (contributor), DLF Working Group on Labor in Digital Libraries, August 2018. [permalink](https://wiki.diglib.org/images/d/d0/DLF_ValuingLabor_ResearchAgenda_2018.pdf)
