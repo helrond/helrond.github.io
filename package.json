@@ -8,7 +8,7 @@
     "grunt-sass": "^1.0.0"
   },
   "dependencies": {
-    "grunt-legacy-log-utils": "^0.1.1",
-    "grunt-legacy-util": "^0.2.0"
+    "grunt-legacy-log-utils": "^2.1.0",
+    "grunt-legacy-util": "^2.0.1"
   }
 }
