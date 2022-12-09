@@ -78,6 +78,8 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Papers and Presentations
 
+* _Including and Unleashing Everyone: Using Liberating Structures for Strategic Conversations in Archives_, (co-facilitator) Society of American Archivists Annual Meeting, August 2022.
+* _Including and Unleashing Everyone: Facilitation with Liberating Structures_, (co-facilitator) Code4Lib Conference, May 2022.
 *	_Developing a Community-Based Strategic Agenda to Transform Archival Discovery and Delivery_, (panelist) Coalition for Networked Information, December 2019.
 *	_Records in Motion: an open, standards-based approach to digital records transfers_, (poster, with Hannah Sistrunk) Society of American Archivists Research Forum, August 2018.
 *	_Archival Values_, (speaker) Society of American Archivists Annual Meeting, August 2018.
