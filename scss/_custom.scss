@@ -44,8 +44,8 @@
 .home {
 	text-align: center;
 	display: flex;
-  flex-direction: column;
-  justify-content: center;
+  	flex-direction: column;
+  	justify-content: center;
 	min-height: 75vh;
 	h1 {font-size: 6rem;}
 	p {font-size: 2rem;}
@@ -70,4 +70,12 @@
 
 .post-time {
 	white-space: nowrap;
+}
+
+.top-bar {
+	height: unset;
+}
+
+.top-bar-section ul li {
+    background: none;
 }
