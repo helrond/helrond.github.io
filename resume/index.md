@@ -23,6 +23,7 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 *   Facilitate strategic adoption of and compliance with archival standards.
 *   Contribute to and encourage RAC participation in open source communities and the archival profession with code, policy development, professional service and publication in professional venues.
 *   Maintain awareness and develop in-depth knowledge of new technology, relevant national standards and best practices through professional meetings, conferences, workshops, and other educational and networking opportunities; assesses and integrates new developments into the digital program.
+*   Conduct comprehensive review of structures, processes, documents and culture to evaluate organizational support for diversity, equity, inclusion and belonging.
 
 **Digital Archivist** (June 2012-December 2016) - _Rockefeller Archive Center_, Sleepy Hollow, NY
 
@@ -140,6 +141,10 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 ### Mid-Atlantic Regional Archives Conference
 
 *   _Member_, 2009-Present.
+
+### Archipelago Advisory Board
+
+*   _Member_, 2019-Present.
 
 ## Awards
 
