@@ -79,6 +79,9 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Papers and Presentations
 
+* _Creating a User Interface for Authoring PREMIS Rights_, (presenter) International Conference on Digital Preservation (iPRES), September 2023
+* _Searching for the Commons: Reflecting on Access Realities Surfaced through User Research_, (panelist) Society of American Archivists Annual Meeting, July 2023.
+* _One Step at a Time: Shrinking Our Carbon Footprint_, (co-presenter) Society of American Archivists Research Forum, July 2023.
 * _Including and Unleashing Everyone: Using Liberating Structures for Strategic Conversations in Archives_, (co-facilitator) Society of American Archivists Annual Meeting, August 2022.
 * _Including and Unleashing Everyone: Facilitation with Liberating Structures_, (co-facilitator) Code4Lib Conference, May 2022.
 *	_Developing a Community-Based Strategic Agenda to Transform Archival Discovery and Delivery_, (panelist) Coalition for Networked Information, December 2019.
