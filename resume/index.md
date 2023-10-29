@@ -15,7 +15,18 @@ New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – h
 
 ## Employment
 
-**Assistant Director, Head of Digital Programs** (January 2016-present) - _Rockefeller Archive Center_, Sleepy Hollow, NY
+**Associate Director of Archives & Chief Digital Strategies Officer** (July 2023 - present) - _Rockefeller Archive Center_, Sleepy Hollow, NY
+
+*   Assists in the planning and directing of the programs and activities of the Rockefeller Archive Center’s Archives Program, including the development and planning of short and long-range program goals and strategies consistent with the overall mission of the RAC. 
+*   In coordination with the Director of Archives, ensures the efficient operation of the Archives Program through effective leadership of and collaboration with supervisors, program managers, and staff members.
+*   In collaboration with stakeholders across the organization, create and maintain a holistic digital strategy for the organization which promotes empowerment and constant learning.
+*   Build, lead and support an integrated team responsible for providing technical expertise and leadership to the entire organization. 
+*   Facilitate the development of core skills across the organization including project management, facilitation process analysis, usability and accessibilty.
+*   Convene and lead sector-level collaboration between archives and philanthropic organizations in support of the  RAC’s efforts to become an organizational home for technology used in archives of philanthropic organizations. 
+*   Provide formal and informal consultation, coaching, and mentoring to colleagues in other archives or philanthropy tech. 
+
+
+**Assistant Director for Digital Strategies** (January 2016-June 2023) - _Rockefeller Archive Center_, Sleepy Hollow, NY
 
 *   Promote learning across the organization, particularly in areas of technology
 *   Collaborate closely with the Director of Archives and members of the Archives Management team to iteratively improve efficiency and the user experience of archival processes.
