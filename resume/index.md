@@ -5,7 +5,7 @@ published: true
 ---
 # Hillel Arnold
 
-New York, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – hillelarnold.com
+Poughkeepsie, NY – [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) – hillelarnold.com
 
 ## Education
 
