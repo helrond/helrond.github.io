@@ -5,7 +5,7 @@ title: Archives
 
 # Archives
 
-I currently work as _Assistant Director and Head of Digital Programs_ at [Rockefeller Archive Center](http://rockarch.org) in Tarrytown, NY.
+I currently work as _Associate Director of Archives & Chief Digital Strategies Officer_ at [Rockefeller Archive Center](http://rockarch.org) in Tarrytown, NY.
 
 My work focuses on using human-centered design principles to improve the user experience across all archival functions. I leverage technology to improve access to archival materials in ways that maximize values of openness, anonymity and transparency.
 
