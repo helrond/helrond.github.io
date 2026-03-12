@@ -90,7 +90,12 @@ Poughkeepsie, NY â€“ [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) â
 
 ## Papers and Presentations
 
-* _Creating a User Interface for Authoring PREMIS Rights_, (presenter) International Conference on Digital Preservation (iPRES), September 2023
+* _Ready for Use_, (presenter) Lessons From the Poughkeepsie Journal Photo Morgue: Empowering Communities to Preserve Their Visual Histories, March 2026.
+* _Expanding Access and Collaboration: DART as a Versatile Tool for Digital Preservation Workflows_, (panelist) Society of American Archivists Annual Meeting, July 2025.
+* _Fluxx Exporter: A Grantmaker Knowledge Management Collaborative_, (presenter) Technology Association of Grantmakers webinar, June 2025.
+* _Building Foundations:Digital Strategies at the Rockefeller Archive Center_, (presenter) Conserving and Celebrating the History of International Associations, May 2025.
+* _Unlocking the Data in Philanthropic Records_, (panelist) International Society for Third-Sector Research 16th Annual Conference, July 2024.
+* _Creating a User Interface for Authoring PREMIS Rights_, (presenter) International Conference on Digital Preservation (iPRES), September 2023.
 * _Searching for the Commons: Reflecting on Access Realities Surfaced through User Research_, (panelist) Society of American Archivists Annual Meeting, July 2023.
 * _One Step at a Time: Shrinking Our Carbon Footprint_, (co-presenter) Society of American Archivists Research Forum, July 2023.
 * _Including and Unleashing Everyone: Using Liberating Structures for Strategic Conversations in Archives_, (co-facilitator) Society of American Archivists Annual Meeting, August 2022.
