@@ -10,30 +10,28 @@ Poughkeepsie, NY â€“ [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) â
 ## Education
 
 *   **Master of Arts in History** (concentration in Archival Management), _New York University_, New York, NY, 2009
-*   **Masters of Science in Library and Information Science**, _Palmer School of Long Island University_, New York, NY, 2009
+*   **Master of Science in Library and Information Science**, _Palmer School of Long Island University_, New York, NY, 2009
 *   **Bachelor of Arts in English Literature** (concentration in Post Colonial Literature), _Hunter College_, 2005
 
 ## Employment
 
 **Associate Director of Archives & Chief Digital Strategies Officer** (July 2023 - present) - _Rockefeller Archive Center_, Sleepy Hollow, NY
 
-*   Assists in the planning and directing of the programs and activities of the Rockefeller Archive Centerâ€™s Archives Program, including the development and planning of short and long-range program goals and strategies consistent with the overall mission of the RAC. 
-*   In coordination with the Director of Archives, ensures the efficient operation of the Archives Program through effective leadership of and collaboration with supervisors, program managers, and staff members.
-*   In collaboration with stakeholders across the organization, create and maintain a holistic digital strategy for the organization which promotes empowerment and constant learning.
+*   Create and maintain a holistic digital strategy for the organization which promotes empowerment and constant learning.
+*   Assist in the planning and directing of the programs and activities of the Archives Program, including the development and planning of short and long-range program goals and strategies consistent with the organization's mission, vision and values. 
 *   Build, lead and support an integrated team responsible for providing technical expertise and leadership to the entire organization. 
-*   Facilitate the development of core skills across the organization including project management, facilitation process analysis, usability and accessibilty.
-*   Convene and lead sector-level collaboration between archives and philanthropic organizations in support of the  RACâ€™s efforts to become an organizational home for technology used in archives of philanthropic organizations. 
+*   Facilitate the development of core enabling skills across the organization including project management, facilitation process analysis, usability and accessibilty.
+*   Convene and lead sector-level collaboration between archives and philanthropic organizations. 
 *   Provide formal and informal consultation, coaching, and mentoring to colleagues in other archives or philanthropy tech. 
 
 
 **Assistant Director for Digital Strategies** (January 2016-June 2023) - _Rockefeller Archive Center_, Sleepy Hollow, NY
 
-*   Promote learning across the organization, particularly in areas of technology
-*   Collaborate closely with the Director of Archives and members of the Archives Management team to iteratively improve efficiency and the user experience of archival processes.
-*   In collaboration with the Director of Archives and members of the Archives Management Team, lead strategic implementation and/or decommissioning of systems to support archival processes.
+*   Promote learning across the organization, particularly in areas of technology.
+*   Iteratively improve efficiency and the user experience of archival processes, including the strategic implementation and/or decommissioning of systems.
 *   Facilitate strategic adoption of and compliance with archival standards.
 *   Contribute to and encourage RAC participation in open source communities and the archival profession with code, policy development, professional service and publication in professional venues.
-*   Maintain awareness and develop in-depth knowledge of new technology, relevant national standards and best practices through professional meetings, conferences, workshops, and other educational and networking opportunities; assesses and integrates new developments into the digital program.
+*   Maintain awareness and develop in-depth knowledge of new technology, relevant national standards and best practices through professional meetings, conferences, workshops, and other educational and networking opportunities; assess and integrate new developments.
 *   Conduct comprehensive review of structures, processes, documents and culture to evaluate organizational support for diversity, equity, inclusion and belonging.
 
 **Digital Archivist** (June 2012-December 2016) - _Rockefeller Archive Center_, Sleepy Hollow, NY
@@ -90,10 +88,11 @@ Poughkeepsie, NY â€“ [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) â
 
 ## Papers and Presentations
 
+* _Protecting Your Information Assets_, (presenter) NGO-ISAC Member Briefing, April 2026.
 * _Ready for Use_, (presenter) Lessons From the Poughkeepsie Journal Photo Morgue: Empowering Communities to Preserve Their Visual Histories, March 2026.
 * _Expanding Access and Collaboration: DART as a Versatile Tool for Digital Preservation Workflows_, (panelist) Society of American Archivists Annual Meeting, July 2025.
 * _Fluxx Exporter: A Grantmaker Knowledge Management Collaborative_, (presenter) Technology Association of Grantmakers webinar, June 2025.
-* _Building Foundations:Digital Strategies at the Rockefeller Archive Center_, (presenter) Conserving and Celebrating the History of International Associations, May 2025.
+* _Building Foundations: Digital Strategies at the Rockefeller Archive Center_, (presenter) Conserving and Celebrating the History of International Associations, May 2025.
 * _Unlocking the Data in Philanthropic Records_, (panelist) International Society for Third-Sector Research 16th Annual Conference, July 2024.
 * _Creating a User Interface for Authoring PREMIS Rights_, (presenter) International Conference on Digital Preservation (iPRES), September 2023.
 * _Searching for the Commons: Reflecting on Access Realities Surfaced through User Research_, (panelist) Society of American Archivists Annual Meeting, July 2023.
@@ -145,10 +144,15 @@ Poughkeepsie, NY â€“ [hillel@hillelarnold.com](mailto:hillel@hillelarnold.com) â
 
 ## Memberships and Professional Service
 
+### Technology Association of Grantmakers
+
+* _Co-Chair_, Conference Committee, 2026.
+* _Member_, Conference Committee, 2025.
+
 ### Society of American Archivists
 
 *   _Member_, 2007-Present.
-*   _Member and Instructor, Technical Subcommittee on DACS_, September 2010-August 2016\. Co-Chair, August 2015-August 2016
+*   _Member and Instructor, Technical Subcommittee on DACS_, September 2010-August 2016\. Co-Chair, August 2015-August 2016.
 *   _Administrator, EAD Help Pages Bibliography_, December 2010-August 2013.
 *   _Co-Chair, EAD Roundtable_, August 2011-August 2013.
 *   _Member (ex officio), Technical Subcommittee on EAD_, August 2011-August 2013.
